@@ -1,0 +1,103 @@
+---
+title: Reading practice
+date: 2022-03-01
+layout: post
+---
+
+<p>This is basic reading practice with colored letters. Click refresh to get a new exercise.</p>
+<button onClick="lawwin()">Refresh</button>
+<p id="front"></p>
+<p id="back"></p>
+<style>
+	#front, #back {text-align: center; font-size: 150%;}
+	button {display: block; margin: auto;}
+</style>
+<script>
+	"use strict";
+	
+	const trans = {
+		'أ': "a",
+		'آ': "a",
+		'ا': "a",
+		'ب': "b",
+		'ت': "t",
+		'ث': "th",
+		'ج': "j",
+		'ح': "7",
+		'خ': "5",
+		'د': "d",
+		'ذ': "th",
+		'ر': "r",
+		'ز': "z",
+		'س': "s",
+		'ش': "sh",
+		'ص': "9",
+		'ض': "9'",
+		'ط': "6",
+		'ظ': "6'",
+		'ع': "3",
+		'غ': "3'",
+		'ف': "f",
+		'ق': "q",
+		'ك': "k",
+		'ل': "l",
+		'م': "m",
+		'ن': "n",
+		'ه': "h",
+		'و': "w",
+		'ي': "y",
+		'ؤ': "'u",
+		'ئ': "'e",
+		'ء': "a",
+		'ة': "h",
+		'\u064b': "[an]",
+		'\u064c': "[un]",
+		'\u064d': "[en]",
+		'\u064e': "a",
+		'\u064f': "u",
+		'\u0650': "e",
+		'\u0651': "",
+		'\u0652': "",
+		' ': " ",
+	};
+
+	const words = [
+			"الْلُغَةُ العَرَبِيَّةُ",
+			"قَلَمٌ",
+			"جَمَلٌ",
+			"ظَرْفٌ",
+			"لَيلٌ",
+			"قَمَرٌ",
+			"شَدّةٌ",
+			"ضِدٌّ",
+		];
+
+	window.onload = lawwin();
+
+	function lawwin() {
+		const front = document.querySelector("p#front");
+		const back = document.querySelector("p#back");
+		front.innerHTML = '';
+		back.innerHTML = '';
+		const text = words[randInt(words.length)];
+		for (var i in text) {
+			const col = randCol();
+			const arLetter = document.createElement("span");
+			arLetter.setAttribute("style", `color: ${col};`);
+			const enLetter = document.createElement("span");
+			enLetter.setAttribute("style", `color: ${col};`);
+			front.appendChild(arLetter)
+				 .appendChild(document.createTextNode(text[i]));
+			back.appendChild(enLetter)
+				 .appendChild(document.createTextNode(trans[text[i]]));
+		}
+	}
+	function randCol() {
+		var letters = "0123456789ABCDEF"
+		var color = "#";
+		for (var i = 0; i < 6; ++i)
+			color += letters[randInt()];
+		return color;
+	}
+	function randInt(n = 16) {return Math.floor(Math.random()*n);}
+</script>

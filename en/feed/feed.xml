@@ -1,113 +1,399 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-	<title>Ghaim</title>
-	<subtitle>Mustafa Alelg personal blog</subtitle>
+	<title>Mubeen</title>
+	<subtitle>Arabic Mubeen</subtitle>
 	
-	<link href="https://mstfelg.github.io/ghaim/en/feed/feed.xml" rel="self"/>
-	<link href="https://mstfelg.github.io/ghaim/en"/>
-	<updated>2022-02-26T00:00:00Z</updated>
+	<link href="https://al-mubeen.com/feed/feed.xml" rel="self"/>
+	<link href="https://al-mubeen.com"/>
+	<updated>2022-03-01T05:18:07Z</updated>
 	<id>https://example.com/</id>
 	<author>
-		<name>Mustafa Alelg</name>
-		<email>me@mstfelg.com</email>
+		<name></name>
+		<email></email>
 	</author>
 	
 	<entry>
-		<title>Tables and codes</title>
-		<link href="https://mstfelg.github.io/ghaim/en/programming/"/>
-		<updated>2022-02-26T00:00:00Z</updated>
-		<id>https://mstfelg.github.io/ghaim/en/programming/</id>
-		<content type="html">&lt;h2 id=&quot;a-table&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://mstfelg.github.io/ghaim/en/programming/#a-table&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; A table&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;https://mstfelg.github.io/2021-12-03.jpg&quot; alt=&quot;Pauley Pavilion at UCLA&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;This is a list of books&lt;/p&gt;
+		<title>8) Family1</title>
+		<link href="https://al-mubeen.com/family1/"/>
+		<updated>2022-03-01T05:18:07Z</updated>
+		<id>https://al-mubeen.com/family1/</id>
+		<content type="html">&lt;p&gt;This lesson is a review for the &lt;a href=&quot;https://al-mubeen.com/possessive&quot;&gt;possessive case&lt;/a&gt;. It&#39;s recommended to review the &amp;quot;rule of stopping&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/diacritics/&quot;&gt;lesson3&lt;/a&gt;, and &amp;quot;the basic recipe&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/pronouns/&quot;&gt;lesson5&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;There is a kind of symmetry in Arabic family names.&lt;/p&gt;
+&lt;h2 id=&quot;parents&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/family1/#parents&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Parents&lt;/h2&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
-&lt;th&gt;Name&lt;/th&gt;
-&lt;th&gt;Author&lt;/th&gt;
-&lt;th&gt;Date&lt;/th&gt;
+&lt;th&gt;أَبٌ&lt;/th&gt;
+&lt;th&gt;Father&lt;/th&gt;
+&lt;th&gt;Ab[un]&lt;/th&gt;
 &lt;/tr&gt;
 &lt;/thead&gt;
 &lt;tbody&gt;
 &lt;tr&gt;
-&lt;td&gt;Les Miserables&lt;/td&gt;
-&lt;td&gt;Victor Hugo&lt;/td&gt;
-&lt;td&gt;1862&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Oliver Twist&lt;/td&gt;
-&lt;td&gt;Charles Dickens&lt;/td&gt;
-&lt;td&gt;1838&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;The good earth&lt;/td&gt;
-&lt;td&gt;Pearl Buck&lt;/td&gt;
-&lt;td&gt;1931&lt;/td&gt;
+&lt;td&gt;أّمٌّ&lt;/td&gt;
+&lt;td&gt;Mother&lt;/td&gt;
+&lt;td&gt;Umm[un]&lt;/td&gt;
 &lt;/tr&gt;
 &lt;/tbody&gt;
 &lt;/table&gt;
-&lt;h2 id=&quot;list&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://mstfelg.github.io/ghaim/en/programming/#list&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; List&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;This is Item1.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Another item&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Foo&lt;br /&gt;
-2. Bar&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Last item&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;finally&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;programming&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://mstfelg.github.io/ghaim/en/programming/#programming&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Programming&lt;/h2&gt;
-&lt;p&gt;A simple script to add an event to google calendar by cli. See my &lt;a href=&quot;https://mstfelg.github.io/ghaim/en/programming/gists.github.com/mstfelg&quot;&gt;Github gists&lt;/a&gt;.&lt;/p&gt;
-&lt;pre class=&quot;language-bash&quot;&gt;&lt;code class=&quot;language-bash&quot;&gt;&lt;span class=&quot;token comment&quot;&gt;#     Title           :   Schejule&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token comment&quot;&gt;#     Author          :   MUSTAFA ALELG&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token comment&quot;&gt;#     Date            :   2021-11-20&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token comment&quot;&gt;#     Description     :   A quick entry tool to create a Google Calendar event&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token comment&quot;&gt;#!/bin/sh&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;Today is &lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;date&lt;/span&gt; -I&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;. Add an event:&quot;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;echo&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯&quot;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;read&lt;/span&gt; -p &lt;span class=&quot;token string&quot;&gt;&quot;Title: &quot;&lt;/span&gt; title&lt;br /&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;read&lt;/span&gt; -p &lt;span class=&quot;token string&quot;&gt;&quot;Start: &quot;&lt;/span&gt; start&lt;br /&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;read&lt;/span&gt; -p &lt;span class=&quot;token string&quot;&gt;&quot;End:   &quot;&lt;/span&gt; end&lt;br /&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;read&lt;/span&gt; -p &lt;span class=&quot;token string&quot;&gt;&quot;Loc:   &quot;&lt;/span&gt; loc&lt;br /&gt;&lt;span class=&quot;token builtin class-name&quot;&gt;read&lt;/span&gt; -p &lt;span class=&quot;token string&quot;&gt;&quot;Note:  &quot;&lt;/span&gt; note&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;[&lt;/span&gt; &lt;span class=&quot;token variable&quot;&gt;${end&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;1}&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;==&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;.&quot;&lt;/span&gt; &lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;]&lt;/span&gt; &lt;span class=&quot;token operator&quot;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&quot;token assign-left variable&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;${start&lt;span class=&quot;token operator&quot;&gt;%%&lt;/span&gt; *}&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;${end&lt;span class=&quot;token operator&quot;&gt;:&lt;/span&gt;1}&lt;/span&gt;&quot;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;token assign-left variable&quot;&gt;start&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;date&lt;/span&gt; -d &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$start&lt;/span&gt;&quot;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;+%Y%m%dT%H%M&quot;&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token assign-left variable&quot;&gt;end&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;&lt;span class=&quot;token variable&quot;&gt;$(&lt;/span&gt;&lt;span class=&quot;token function&quot;&gt;date&lt;/span&gt; -d &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$end&lt;/span&gt;&quot;&lt;/span&gt; &lt;span class=&quot;token string&quot;&gt;&quot;+%Y%m%dT%H%M&quot;&lt;/span&gt;&lt;span class=&quot;token variable&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;&lt;span class=&quot;token assign-left variable&quot;&gt;url&lt;/span&gt;&lt;span class=&quot;token operator&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;token string&quot;&gt;&quot;https://www.google.com/calendar/render?action=TEMPLATE&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;\&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token string&quot;&gt;&quot;text=&lt;span class=&quot;token variable&quot;&gt;$title&lt;/span&gt;&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;\&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token string&quot;&gt;&quot;dates=&lt;span class=&quot;token variable&quot;&gt;$start&lt;/span&gt;%2F&lt;span class=&quot;token variable&quot;&gt;$end&lt;/span&gt;&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;\&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token string&quot;&gt;&quot;location=&lt;span class=&quot;token variable&quot;&gt;$loc&lt;/span&gt;&amp;amp;&quot;&lt;/span&gt;&lt;span class=&quot;token punctuation&quot;&gt;\&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token string&quot;&gt;&quot;details=&lt;span class=&quot;token variable&quot;&gt;$note&lt;/span&gt;&amp;amp;&quot;&lt;/span&gt;&lt;br /&gt;&lt;span class=&quot;token comment&quot;&gt;# &quot;trp=$&amp;amp;&quot; for availability&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;firefox &lt;span class=&quot;token string&quot;&gt;&quot;&lt;span class=&quot;token variable&quot;&gt;$url&lt;/span&gt;&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;Notice the stress (Shadda) on the meem of أُمٌّ.&lt;/p&gt;
+&lt;p&gt;Simple mnemonic: [Ab] and [Um] are the reverse of the first letters of [ba]ba, and [ma]ma.&lt;/p&gt;
+&lt;h2 id=&quot;siblings&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/family1/#siblings&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Siblings&lt;/h2&gt;
+&lt;p&gt;This is where &amp;quot;the simple recipe&amp;quot; alters a bit. Instead of using Taa Marbuta (ـة) we use regular Taa (ت) to transform (أخ) brother to (أخت) sister.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;أخٌ&lt;/th&gt;
+&lt;th&gt;Brother&lt;/th&gt;
+&lt;th&gt;Akh[un]&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;أُختٌ&lt;/td&gt;
+&lt;td&gt;Sister&lt;/td&gt;
+&lt;td&gt;Ukht[un]&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&quot;back-to-possessive&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/family1/#back-to-possessive&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Back to possessive&lt;/h2&gt;
+&lt;p&gt;The words for father and brother have a special case when in possessive. It&#39;s simply an additional Waw (و) added to the end when they belong to a possessor.&lt;/p&gt;
+&lt;p&gt;Example: أبو مُحَمّدٍ (Abu Mohammad[en]: Mohammad&#39;s father)&lt;/p&gt;
+&lt;p&gt;Since &amp;quot;أب&amp;quot; belongs to &amp;quot;مُحمّد&amp;quot;, a Waw is added to the end.&lt;/p&gt;
+&lt;p&gt;Example2: أخو زيدٍ&lt;/p&gt;
+&lt;h2 id=&quot;exercises&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/family1/#exercises&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Exercises&lt;/h2&gt;
+&lt;center&gt;
+    &lt;a href=&quot;https://al-mubeen.com/family1-practice&quot;&gt;Click here to practice with online Flashcards.&lt;/a&gt;
+&lt;/center&gt;
 </content>
 	</entry>
 	
 	<entry>
-		<title>Introduction</title>
-		<link href="https://mstfelg.github.io/ghaim/en/first-post/"/>
-		<updated>2022-02-24T00:00:00Z</updated>
-		<id>https://mstfelg.github.io/ghaim/en/first-post/</id>
-		<content type="html">&lt;h2 id=&quot;this-is-ghaim-blog-template&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://mstfelg.github.io/ghaim/en/first-post/#this-is-ghaim-blog-template&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; This is Ghaim blog template&lt;/h2&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;https://upload.wikimedia.org/wikipedia/commons/f/f9/%D9%88%D8%A7%D8%AC%D9%87%D8%A9-%D9%82%D9%84%D8%B9%D8%A9-%D8%AA%D8%A7%D8%B1%D9%88%D8%AA.jpg&quot; /&gt;
-    &lt;figcaption&gt;Front of Tarout&#39;s castle&lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Kipling says:&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;If you can keep your head when all about you&lt;/p&gt;
-&lt;p&gt;Are losing theirs and blaming it on you,&lt;/p&gt;
-&lt;p&gt;If you can trust yourself when all men doubt you,&lt;/p&gt;
-&lt;p&gt;But make allowance for their doubting too;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h2 id=&quot;pythagoras-says&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://mstfelg.github.io/ghaim/en/first-post/#pythagoras-says&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Pythagoras says&lt;/h2&gt;
-&lt;p&gt;If &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;△&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\triangle ABC&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.69444em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:0.8888799999999999em;vertical-align:-0.19444em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base textstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;△&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.05017em;&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.07153em;&quot;&gt;C&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; is right in &lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;∠&lt;/mi&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\angle A&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.69224em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:0.69224em;vertical-align:0em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base textstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;∠&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;, then:&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;msup&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;+&lt;/mo&gt;&lt;mi&gt;A&lt;/mi&gt;&lt;msup&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;mi&gt;B&lt;/mi&gt;&lt;msup&gt;&lt;mi&gt;C&lt;/mi&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;/msup&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;AB^2 + AC^2 = BC^2
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:0.8641079999999999em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:0.9474379999999999em;vertical-align:-0.08333em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathit&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.05017em;&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:-0.413em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mbin&quot;&gt;+&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.07153em;&quot;&gt;C&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:-0.413em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.05017em;&quot;&gt;B&lt;/span&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.07153em;&quot;&gt;C&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:-0.413em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;2&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img src=&quot;https://i.imgur.com/p0vH4H3.png&quot; /&gt;
-    &lt;figcaption&gt;
-		Pythagorean theorem: sum of areas of the two squares equals the area of the hypotenuse square.
-    &lt;/figcaption&gt;
-&lt;/figure&gt;
-&lt;p&gt;Area of a circle:&lt;/p&gt;
-&lt;p&gt;&lt;span class=&quot;katex-display&quot;&gt;&lt;span class=&quot;katex&quot;&gt;&lt;span class=&quot;katex-mathml&quot;&gt;&lt;math&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtable&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;A&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;r&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;e&lt;/mi&gt;&lt;mi mathvariant=&quot;normal&quot;&gt;a&lt;/mi&gt;&lt;/mrow&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msub&gt;&lt;mo&gt;∬&lt;/mo&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;/msub&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mo&gt;(&lt;/mo&gt;&lt;mi&gt;x&lt;/mi&gt;&lt;mo separator=&quot;true&quot;&gt;,&lt;/mo&gt;&lt;mi&gt;y&lt;/mi&gt;&lt;mo&gt;)&lt;/mo&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msub&gt;&lt;mo&gt;∬&lt;/mo&gt;&lt;mi&gt;D&lt;/mi&gt;&lt;/msub&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;θ&lt;/mi&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msubsup&gt;&lt;mo&gt;∫&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;/msubsup&gt;&lt;msubsup&gt;&lt;mo&gt;∫&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;/mrow&gt;&lt;/msubsup&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;θ&lt;/mi&gt;&lt;mtext&gt; &lt;/mtext&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msubsup&gt;&lt;mo&gt;∫&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;/msubsup&gt;&lt;msubsup&gt;&lt;mrow&gt;&lt;mo fence=&quot;true&quot;&gt;[&lt;/mo&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mi&gt;θ&lt;/mi&gt;&lt;mo fence=&quot;true&quot;&gt;]&lt;/mo&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;/mrow&gt;&lt;/msubsup&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;mo&gt;=&lt;/mo&gt;&lt;msubsup&gt;&lt;mo&gt;∫&lt;/mo&gt;&lt;mn&gt;0&lt;/mn&gt;&lt;mrow&gt;&lt;mi&gt;r&lt;/mi&gt;&lt;/mrow&gt;&lt;/msubsup&gt;&lt;mn&gt;2&lt;/mn&gt;&lt;mi&gt;π&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;mspace width=&quot;0.16667em&quot;&gt;&lt;/mspace&gt;&lt;mi&gt;d&lt;/mi&gt;&lt;mi&gt;t&lt;/mi&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;mtr&gt;&lt;mtd&gt;&lt;mrow&gt;&lt;/mrow&gt;&lt;/mtd&gt;&lt;/mtr&gt;&lt;/mtable&gt;&lt;/mrow&gt;&lt;annotation encoding=&quot;application/x-tex&quot;&gt;\begin{aligned}
- \mathrm{Area}(r) &amp;amp;{}= \iint_D 1\ d(x, y)\\
- &amp;amp;{} = \iint_D t\ dt\ d\theta\\
- &amp;amp;{} = \int_0^r \int_0^{2\pi}  t\ d\theta\ dt\\
- &amp;amp;{} = \int_0^r \left[ t\theta \right]_{0}^{2\pi} dt\\
- &amp;amp;{}= \int_0^{r} 2 \pi t \, dt \\
- \end{aligned}
-&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&quot;katex-html&quot; aria-hidden=&quot;true&quot;&gt;&lt;span class=&quot;strut&quot; style=&quot;height:6.562929em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;strut bottom&quot; style=&quot;height:12.625857999999997em;vertical-align:-6.062928999999999em;&quot;&gt;&lt;/span&gt;&lt;span class=&quot;base displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord&quot;&gt;&lt;span class=&quot;mtable&quot;&gt;&lt;span class=&quot;col-align-r&quot;&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:-5.202928999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;A&lt;/span&gt;&lt;span class=&quot;mord mathrm&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;mord mathrm&quot;&gt;e&lt;/span&gt;&lt;span class=&quot;mord mathrm&quot;&gt;a&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;r&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.930928999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-0.593820999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:1.6784290000000006em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:3.950678999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:5.702928999999998em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;col-align-l&quot;&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:-5.202928999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:1em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mop&quot;&gt;&lt;span class=&quot;op-symbol large-op mop&quot; style=&quot;margin-right:0.44445em;top:-0.0009999999999999454em;&quot;&gt;∬&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:0.912em;margin-right:0.05em;margin-left:-0.44445em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord mathrm&quot;&gt;1&lt;/span&gt;&lt;span class=&quot;mord mspace&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mopen&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;x&lt;/span&gt;&lt;span class=&quot;mpunct&quot;&gt;,&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.03588em;&quot;&gt;y&lt;/span&gt;&lt;span class=&quot;mclose&quot;&gt;)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-2.930928999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:1em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mop&quot;&gt;&lt;span class=&quot;op-symbol large-op mop&quot; style=&quot;margin-right:0.44445em;top:-0.0009999999999999454em;&quot;&gt;∬&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:0.912em;margin-right:0.05em;margin-left:-0.44445em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;D&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mspace&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mspace&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;θ&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-0.593820999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:1em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mop&quot;&gt;&lt;span class=&quot;op-symbol large-op mop&quot; style=&quot;margin-right:0.44445em;top:-0.0011249999999999316em;&quot;&gt;∫&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:0.91225em;margin-left:-0.44445em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-0.9739999999999999em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;r&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mop&quot;&gt;&lt;span class=&quot;op-symbol large-op mop&quot; style=&quot;margin-right:0.44445em;top:-0.0011249999999999316em;&quot;&gt;∫&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:0.91225em;margin-left:-0.44445em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-0.9739999999999999em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.03588em;&quot;&gt;π&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mspace&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;θ&lt;/span&gt;&lt;span class=&quot;mord mspace&quot;&gt; &lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:1.6784290000000006em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:1em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mop&quot;&gt;&lt;span class=&quot;op-symbol large-op mop&quot; style=&quot;margin-right:0.44445em;top:-0.0011249999999999316em;&quot;&gt;∫&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:0.91225em;margin-left:-0.44445em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-0.9739999999999999em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;r&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;minner&quot;&gt;&lt;span class=&quot;minner displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;style-wrap reset-textstyle textstyle uncramped&quot; style=&quot;top:0em;&quot;&gt;[&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;θ&lt;/span&gt;&lt;span class=&quot;style-wrap reset-textstyle textstyle uncramped&quot; style=&quot;top:0em;&quot;&gt;]&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:0.3em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-0.413em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.03588em;&quot;&gt;π&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:3.950678999999999em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:1em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord displaystyle textstyle uncramped&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mrel&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;mop&quot;&gt;&lt;span class=&quot;op-symbol large-op mop&quot; style=&quot;margin-right:0.44445em;top:-0.0011249999999999316em;&quot;&gt;∫&lt;/span&gt;&lt;span class=&quot;vlist&quot;&gt;&lt;span style=&quot;top:0.91225em;margin-left:-0.44445em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle cramped&quot;&gt;&lt;span class=&quot;mord mathrm&quot;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;top:-0.9739999999999999em;margin-right:0.05em;&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;reset-textstyle scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord scriptstyle uncramped&quot;&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.02778em;&quot;&gt;r&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:0em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;mord mathrm&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;mord mathit&quot; style=&quot;margin-right:0.03588em;&quot;&gt;π&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;span class=&quot;mord mspace thinspace&quot;&gt;&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;d&lt;/span&gt;&lt;span class=&quot;mord mathit&quot;&gt;t&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&quot;baseline-fix&quot;&gt;&lt;span class=&quot;fontsize-ensurer reset-size5 size5&quot;&gt;&lt;span style=&quot;font-size:1em;&quot;&gt;​&lt;/span&gt;&lt;/span&gt;​&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+		<title>7) Greetings</title>
+		<link href="https://al-mubeen.com/greetings/"/>
+		<updated>2022-03-01T05:18:07Z</updated>
+		<id>https://al-mubeen.com/greetings/</id>
+		<content type="html">&lt;h2 id=&quot;greetings&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#greetings&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Greetings&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;مرحباً&lt;/li&gt;
+&lt;li&gt;أهلاً&lt;/li&gt;
+&lt;li&gt;هلا&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Last one is informal.&lt;/p&gt;
+&lt;ol start=&quot;4&quot;&gt;
+&lt;li&gt;سلام: peace&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Prepositions&lt;/h2&gt;
+&lt;p&gt;Prepositions never have Tanween nor are affected by any grammatical case.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;عَنْ: about&lt;/li&gt;
+&lt;li&gt;مِنْ: from&lt;/li&gt;
+&lt;li&gt;إلَى: to&lt;/li&gt;
+&lt;li&gt;عَلَى: on, upon, on top of&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;possessive-prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#possessive-prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive prepositions&lt;/h2&gt;
+&lt;p&gt;Recall the possessive pronouns from the previous lesson.&lt;/p&gt;
+&lt;p&gt;To say &amp;quot;a pen to you&amp;quot; to a male:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;a pen --&amp;gt; قَلَمٌ&lt;/li&gt;
+&lt;li&gt;to you --&amp;gt; إلى+ك&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Since Alif Maqsura (ى) cannot come in the middle of a word (review &lt;a href=&quot;https://al-mubeen.com/3-diacritics/&quot;&gt;lesson3&lt;/a&gt;), it must be transformed to Yaa (ي), so:&lt;/p&gt;
+&lt;ol start=&quot;3&quot;&gt;
+&lt;li&gt;to you --&amp;gt; إليك&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;The same rule applies for preposition &amp;quot;على&amp;quot;:&lt;/p&gt;
+&lt;p&gt;Example: السلام عليكم&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;السلام: is ال+سلام, meaning &amp;quot;the peace&amp;quot; or just &amp;quot;peace&amp;quot;&lt;/li&gt;
+&lt;li&gt;عليكم: is على+كم, which is transformed to &amp;quot;عليكم&amp;quot; according to the previous rule.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>6) Possessive</title>
+		<link href="https://al-mubeen.com/possessive/"/>
+		<updated>2022-03-01T05:18:07Z</updated>
+		<id>https://al-mubeen.com/possessive/</id>
+		<content type="html">&lt;h2 id=&quot;possessive-pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive pronouns&lt;/h2&gt;
+&lt;p&gt;Possessive pronouns are just a couple of letters appended to the end of the word.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;My: ي (y)&lt;/li&gt;
+&lt;li&gt;Our: نا (na)&lt;/li&gt;
+&lt;li&gt;Your [m]: كَ (ka)&lt;/li&gt;
+&lt;li&gt;Your [f]: كِ (ki)&lt;/li&gt;
+&lt;li&gt;Your [plural]: كُمْ (kum)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Here&#39;s the transformation of a possessive case:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;My pen (English sentence)&lt;/li&gt;
+&lt;li&gt;Pen My (Flip the order)&lt;/li&gt;
+&lt;li&gt;قلم+ي (Translate)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Our pen: قلم+نا = قَلَمُنَا&lt;/li&gt;
+&lt;li&gt;Your [plural] pen: قلم+كم = قَلَمُكُمْ&lt;/li&gt;
+&lt;li&gt;Your [f] pen: قَلَمُ+كِ = قَلَمُكِ&lt;/li&gt;
+&lt;li&gt;Your [m] pen: قَلَمُ+كَ = قَلَمُكَ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;tanween-rules&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#tanween-rules&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween rules&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Rule: Tanween is never applied to nouns in possessive.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Recall that Tanween is used for indefinite articles. In Arabic, when a noun belongs to someone/something, it is definite and known by its possessor.&lt;/p&gt;
+&lt;h2 id=&quot;possessive-grammar&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-grammar&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive grammar&lt;/h2&gt;
+&lt;p&gt;The last Haraka of every word is affected by its grammatical case. The default case to every word is called nominative, where Dhamma  ــُـ ‎ is used at the end.&lt;/p&gt;
+&lt;p&gt;Example: قَلَمٌ جَيِّدٌ (A good pen) has both &amp;quot;قَلَمٌ&amp;quot; and &amp;quot;جيِّدٌ&amp;quot; as nominative. Notice how ending is Dhamma.&lt;/p&gt;
+&lt;p&gt;When a singular word is in possessive case, its ending is changed to Kasrah  ــِـ ‎. In all cases, Tanween is just follows the original Haraka. Tanween is but a shorthand to adding a nun at the end.&lt;/p&gt;
+&lt;p&gt;Example: قَلَمُ مُحَمَّدٍ (Pen of Muhammed)&lt;/p&gt;
+&lt;p&gt;Romanized as &amp;quot;Qalamu Muhammaden&amp;quot;. Notice that pen is defined by it is being belonging to Muhammed, so Tanween must be removed, and Muhammaden is in possessive case.&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>5) Pronouns</title>
+		<link href="https://al-mubeen.com/pronouns/"/>
+		<updated>2022-03-01T05:18:07Z</updated>
+		<id>https://al-mubeen.com/pronouns/</id>
+		<content type="html">&lt;h2 id=&quot;the-basic-gender-recipe&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#the-basic-gender-recipe&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; The Basic Gender Recipe&lt;/h2&gt;
+&lt;p&gt;As a beginner, you can make the following simplifying assumptions on gender, which we will refer to as the basic recipe:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If a noun ends with Taa Marbuta (ـة), then it is most likely feminine, otherwise it is most likely masculine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The opposite is roughly a correct rule too:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;If an adjective is masculine, then adding (ـة) will make it feminine.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;this&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#this&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; This&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;هَذَا: haaTha&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Means &amp;quot;this&amp;quot; for a masculine noun. We will denote it by &amp;quot;this [m]&amp;quot; for short.&lt;/p&gt;
+&lt;ol start=&quot;2&quot;&gt;
+&lt;li&gt;هَذِهِ: haaThehe&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Means &amp;quot;this&amp;quot; for a feminine noun. We will denote it by &amp;quot;this [f]&amp;quot; for short.&lt;/p&gt;
+&lt;p&gt;Common mistake: هَذِهِ ends with a regular Haa (ه) not Taa Marbuta (ة)&lt;/p&gt;
+&lt;p&gt;Notice that in both Arabic &amp;quot;this&amp;quot; words, there is no Alif like: (هاذا), (هاذه) despite pronouncing it. Why is that? because &amp;quot;this&amp;quot; is so common that it became typical to drop its Alif.&lt;/p&gt;
+&lt;h2 id=&quot;subject-pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#subject-pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Subject pronouns&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;أنا: I/I am&lt;/li&gt;
+&lt;li&gt;أَنْتَ: You [m]&lt;/li&gt;
+&lt;li&gt;أَنْتِ: You [f]&lt;/li&gt;
+&lt;li&gt;هُوَ: he&lt;/li&gt;
+&lt;li&gt;هِيَ: she&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;what-about-am-is-are&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#what-about-am-is-are&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; What about Am, Is, Are?&lt;/h2&gt;
+&lt;p&gt;Arabic grammar is concise. Want to say &amp;quot;Sky is blue&amp;quot;? just put &amp;quot;blue&amp;quot; after &amp;quot;sky&amp;quot; in a sentence: &amp;quot;sky blue&amp;quot;. Applying this concept, to say:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;I am good --&amp;gt; أنا جيد&lt;/li&gt;
+&lt;li&gt;He is good --&amp;gt; هو جيد&lt;/li&gt;
+&lt;li&gt;She is good --&amp;gt; هي جيدة&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Notice in the last example, since &amp;quot;She&amp;quot; is feminine, we had to transform masculine adjective to feminine by adding (ة).&lt;/p&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>4) Vocabulary</title>
+		<link href="https://al-mubeen.com/basic-words/"/>
+		<updated>2022-03-01T05:18:07Z</updated>
+		<id>https://al-mubeen.com/basic-words/</id>
+		<content type="html">&lt;center&gt;
+    &lt;a href=&quot;https://al-mubeen.com/basic-words-practice&quot;&gt;Click here for online flashcards.&lt;/a&gt;
+&lt;/center&gt;
+&lt;p&gt;The following is a list of basic vocabulary to practice writing and reading Arabic.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;ا: اِسْمٌ&lt;/li&gt;
+&lt;li&gt;ب: بَحْرٌ&lt;/li&gt;
+&lt;li&gt;ت: تَمْرٌ&lt;/li&gt;
+&lt;li&gt;ث: ثَوْبٌ&lt;/li&gt;
+&lt;li&gt;ج: جَمَلٌ&lt;/li&gt;
+&lt;li&gt;ح: حِصَاْنٌ&lt;/li&gt;
+&lt;li&gt;خ: خُبْزٌ&lt;/li&gt;
+&lt;li&gt;د: دُبٌّ&lt;/li&gt;
+&lt;li&gt;ق: قَلَمٌ&lt;/li&gt;
+&lt;li&gt;ظ: ظَرْفٌ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Translations in order:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;اسم: noun&lt;/li&gt;
+&lt;li&gt;بحر: sea&lt;/li&gt;
+&lt;li&gt;تمر: dates&lt;/li&gt;
+&lt;li&gt;ثوب: dress&lt;/li&gt;
+&lt;li&gt;جمل: camel&lt;/li&gt;
+&lt;li&gt;حصان: horse&lt;/li&gt;
+&lt;li&gt;خبز: bread&lt;/li&gt;
+&lt;li&gt;دب: bear&lt;/li&gt;
+&lt;li&gt;قلم: pen&lt;/li&gt;
+&lt;li&gt;ظرف: envelope or situation&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>3) Diacritics and vowels</title>
+		<link href="https://al-mubeen.com/diacritics/"/>
+		<updated>2022-03-01T05:18:07Z</updated>
+		<id>https://al-mubeen.com/diacritics/</id>
+		<content type="html">&lt;p&gt;Arabic diacritics, often called Tashkeel (تشكيل), are used to give a word its exact pronunciation. They are used in sacred scriptures, official documents, and children books.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7LKbEMA1DEQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lS7y3zCRHb4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Arabic has 3 vowels: Alif (ا), Waw (و), and Yaa (ي), which are referred to as long vowels. Arabic is written similar to how &lt;a href=&quot;https://en.wikipedia.org/wiki/Disemvoweling&quot;&gt;disemvowelled English&lt;/a&gt; sentences are written. For example, this sentence: &amp;quot;Yu lrn Arbc&amp;quot; is the disemvoweled sentence of &amp;quot;You learn Arabic&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Arabic diacritics consist of:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Harakat (حركات): to indicate short vowels.&lt;/li&gt;
+&lt;li&gt;Tanween (تنوين): to indicate adding a nun (ن) to the end of the word.&lt;/li&gt;
+&lt;li&gt;Sukoon (سكون): to indicate absence of vowel.&lt;/li&gt;
+&lt;li&gt;Shadda (شدّة): to indicate a stress in a vowel.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&quot;tanween&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#tanween&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;&lt;u&gt;Rule of Tanween&lt;/u&gt;&lt;/strong&gt;: Tanween indicates indefinite article.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;From this rule we can conclude:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Tanween is &lt;strong&gt;always&lt;/strong&gt; at the end of the word.&lt;/li&gt;
+&lt;li&gt;Tanween cannot be applied to verbs or prepositions.&lt;/li&gt;
+&lt;li&gt;When there is Tanween on a word, it must be a noun.&lt;/li&gt;
+&lt;li&gt;And this noun, cannot be preceded by the Arabic &amp;quot;the&amp;quot; (ال) because it is indefinite.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&quot;tanween-fath-(an)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#tanween-fath-(an)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween FatH (ـً)&lt;/h3&gt;
+&lt;p&gt;The special thing about Tanween FatH (ـً) is that it is often accompanied by a silent Alif (ا)&lt;/p&gt;
+&lt;p&gt;Example: شُكراً (Shukran - Thanks)&lt;/p&gt;
+&lt;p&gt;Notice that Tanween is fully pronounced despite stopping.&lt;/p&gt;
+&lt;h2 id=&quot;rule-of-stopping&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#rule-of-stopping&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Rule of Stopping&lt;/h2&gt;
+&lt;p&gt;It is more natural in speech to dismiss the last diacritics when stopping at a word (e.g: taking a breath, full stop, etc.).&lt;/p&gt;
+&lt;p&gt;Throughout the lessons, we may disregard this rule to clarify correct diacritics. The rule of stopping does not apply to long vowels; they will still be pronounced.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Example1: مُحمّدٌ جيّدٌ (Muhammed is good)&lt;/p&gt;
+&lt;p&gt;Written as: &amp;quot;Muhammadun Jayyedun&amp;quot;, but pronounced as &amp;quot;Muhammadun Jayyed&amp;quot;, since we stopped at &amp;quot;جيّدٌ&amp;quot; but continued on &amp;quot;مُحمّدٌ&amp;quot;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Rule of stopping is often disregarded for Tanween FatH&lt;/p&gt;
+&lt;p&gt;Example2: شُكراً جزيلاً (Thank you very much)&lt;/p&gt;
+&lt;p&gt;Pronounced: &amp;quot;Shukran Jazeelan&amp;quot; with a nun pronounced on both words.&lt;/p&gt;
+&lt;h3 id=&quot;taa-marbuta-(h)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#taa-marbuta-(h)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Taa Marbuta (ـة)&lt;/h3&gt;
+&lt;p&gt;Taa Marbuta is just Taa (ت) and Haa (ـه) joined together.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/taa-marbuta.png&quot; alt=&quot;Taa Marbuta is Taa and Haa&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Taa Marbuta is pronounced Taa (ت) when its diacritic is pronounced, and as a Haa (ه) when dismissing diacritics. To remember this rule here is a mnemonic:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[H]alt: Haa ه&lt;/li&gt;
+&lt;li&gt;[T]anween or con[T]inue: Taa ت&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Taa Marbuta (ـة) &lt;u&gt;&lt;strong&gt;always&lt;/strong&gt;&lt;/u&gt; comes at the end of &lt;em&gt;nouns&lt;/em&gt;, and as a rule of thumb, most of these nouns are feminine. In the next lesson we will cover more about gender in Arabic.&lt;/p&gt;
+&lt;h2 id=&quot;lesson-material&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#lesson-material&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Lesson material&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://al-mubeen.com/3-diacritics.pdf&quot;&gt;Video slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://andreasmhallberg.github.io/documents/arabic-letters-and-vowel-markers.tex.pdf&quot;&gt;A helpful Arabic letters sheet&lt;/a&gt; by &lt;a href=&quot;https://andreasmhallberg.github.io/&quot;&gt;Andreas Hallberg&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>2) The Arabic Alphabet</title>
+		<link href="https://al-mubeen.com/alphabet/"/>
+		<updated>2022-02-15T00:00:00Z</updated>
+		<id>https://al-mubeen.com/alphabet/</id>
+		<content type="html">&lt;p&gt;Arabic is one of the few languages that it is written from right to left. The alphabet consists of 28 letters but many of them share the same base glyph. Arabic is cursive by nature, meaning that wbords generally consist of letters connected together, and so they change form depending on their position in the word. However they do not different much from their base glyphs. All letters connect to the letter forward, except for 6 letters.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/zkDccT4Obe4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;h2 id=&quot;the-alphabet&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#the-alphabet&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; The Alphabet&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/2-alphabet.jpg&quot; alt=&quot;The Arabic Alphabet&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;The letters can be grouped according to their common base glyph:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/2-alphabet-1.jpg&quot; alt=&quot;The Arabic Alphabet grouped by glyph&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;1.-alif-(a)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#1.-alif-(a)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 1. Alif (ا)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;A&amp;quot; as in &lt;u&gt;a&lt;/u&gt;pple, c&lt;u&gt;a&lt;/u&gt;t.&lt;/p&gt;
+&lt;h3 id=&quot;2.-baa-(b)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#2.-baa-(b)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 2. Baa (ب)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;B&amp;quot; in &lt;u&gt;b&lt;/u&gt;read.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-01.jpg&quot; alt=&quot;mnemonics-01&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;3.-taa-(t)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#3.-taa-(t)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 3. Taa (ت)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;T&amp;quot; in &lt;u&gt;t&lt;/u&gt;able.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-02.jpg&quot; alt=&quot;mnemonics-02&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;4.-thaa-(th)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#4.-thaa-(th)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 4. Thaa (ث)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;th&amp;quot; in &lt;u&gt;th&lt;/u&gt;ink.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-03.jpg&quot; alt=&quot;mnemonics-03&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;5.-jeem-(j)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#5.-jeem-(j)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 5. Jeem (ج)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;j&amp;quot; in &lt;u&gt;J&lt;/u&gt;uly.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-05.jpg&quot; alt=&quot;mnemonics-05&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;6.-aa-(h)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#6.-aa-(h)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 6. ḥaa (ح)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;h&amp;quot;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-04.jpg&quot; alt=&quot;mnemonics-04&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;7.-khaa-(kh)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#7.-khaa-(kh)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 7. Khaa (خ)&lt;/h3&gt;
+&lt;p&gt;Pronounced similar to &amp;quot;ch&amp;quot; in ba&lt;u&gt;ch&lt;/u&gt; (German).&lt;/p&gt;
+&lt;h3 id=&quot;8.-daal-(d)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#8.-daal-(d)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 8. Daal (د)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;d&amp;quot; in &lt;u&gt;d&lt;/u&gt;oor.&lt;/p&gt;
+&lt;h3 id=&quot;9.-thaal-(th)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#9.-thaal-(th)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 9. Thaal (ذ)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: &amp;quot;th&amp;quot; in &lt;u&gt;th&lt;/u&gt;e.&lt;/p&gt;
+&lt;h3 id=&quot;10.-raa-(r)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#10.-raa-(r)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 10. Raa (ر)&lt;/h3&gt;
+&lt;p&gt;Pronounced as: rolling r in Spanish perro.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-06.jpg&quot; alt=&quot;mnemonics-06&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;11.-zaay-(z)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#11.-zaay-(z)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 11. Zaay (ز)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;z&amp;quot; in &lt;u&gt;z&lt;/u&gt;ebra&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-07.jpg&quot; alt=&quot;mnemonics-07&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;12.-seen-(s)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#12.-seen-(s)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 12. Seen (س)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;s&amp;quot; in &lt;u&gt;s&lt;/u&gt;ee.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-08.jpg&quot; alt=&quot;mnemonics-08&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;13.-sheen-(sh)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#13.-sheen-(sh)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 13. Sheen (ش)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;sh&amp;quot; in &lt;u&gt;sh&lt;/u&gt;e.&lt;/p&gt;
+&lt;h3 id=&quot;14.-saad-(s)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#14.-saad-(s)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 14. Saad (ص)&lt;/h3&gt;
+&lt;p&gt;Pronounced similar to &amp;quot;s&amp;quot; in &lt;u&gt;Se&lt;/u&gt;rbia and &lt;u&gt;Sa&lt;/u&gt;uce.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-09.jpg&quot; alt=&quot;mnemonics-09&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;15.-daad-(dh)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#15.-daad-(dh)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 15. Daad (ض)&lt;/h3&gt;
+&lt;p&gt;Pronounced similar to &amp;quot;d&amp;quot; in &lt;u&gt;d&lt;/u&gt;awn.&lt;/p&gt;
+&lt;h3 id=&quot;16.-taa-(t)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#16.-taa-(t)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 16. Taa (ط)&lt;/h3&gt;
+&lt;p&gt;Pronounced similar to t in s&lt;u&gt;t&lt;/u&gt;all.&lt;/p&gt;
+&lt;h3 id=&quot;17.-thad-(z)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#17.-thad-(z)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 17. Thad (ظ)&lt;/h3&gt;
+&lt;p&gt;Pronounced similar to &amp;quot;th&amp;quot; as in fa&lt;u&gt;th&lt;/u&gt;er, or as &amp;quot;z&amp;quot; in some accents.&lt;/p&gt;
+&lt;h3 id=&quot;18.-ayn-(a)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#18.-ayn-(a)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 18. Ayn (ع)&lt;/h3&gt;
+&lt;p&gt;Pronounced similar to &amp;quot;a&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-10.jpg&quot; alt=&quot;mnemonics-10&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;19.-ghayn-(gh)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#19.-ghayn-(gh)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 19. Ghayn (غ)&lt;/h3&gt;
+&lt;p&gt;Pronounced as the French r in Pa&lt;u&gt;r&lt;/u&gt;is&lt;/p&gt;
+&lt;h3 id=&quot;20.-faa-(f)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#20.-faa-(f)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 20. Faa (ف)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;f&amp;quot; in &lt;u&gt;f&lt;/u&gt;ar.&lt;/p&gt;
+&lt;h3 id=&quot;21.-qaaf-(q)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#21.-qaaf-(q)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 21. Qaaf (ق)&lt;/h3&gt;
+&lt;p&gt;Pronounced similar to &amp;quot;c&amp;quot; in &amp;quot;&lt;u&gt;c&lt;/u&gt;andy&amp;quot;&lt;/p&gt;
+&lt;h3 id=&quot;22.-kaaf-(k)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#22.-kaaf-(k)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 22. Kaaf (ك)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;k&amp;quot; in &lt;u&gt;k&lt;/u&gt;ey.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-11.jpg&quot; alt=&quot;mnemonics-11&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;23.-laam-(l)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#23.-laam-(l)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 23. Laam (ل)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;l&amp;quot; in &lt;u&gt;l&lt;/u&gt;emon.&lt;/p&gt;
+&lt;h3 id=&quot;24.-meem-(m)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#24.-meem-(m)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 24. Meem (م)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;m&amp;quot; in &lt;u&gt;m&lt;/u&gt;emo.&lt;/p&gt;
+&lt;h3 id=&quot;25.-noon-(n)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#25.-noon-(n)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 25. Noon (ن)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;n&amp;quot; in &lt;u&gt;n&lt;/u&gt;oon.&lt;/p&gt;
+&lt;h3 id=&quot;26.-haa-(h)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#26.-haa-(h)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 26. Haa (ه)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;h&amp;quot; in &lt;u&gt;h&lt;/u&gt;at.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/mnemonics-12.jpg&quot; alt=&quot;mnemonics-12&quot; /&gt;&lt;/p&gt;
+&lt;h3 id=&quot;28.-waw-(w)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#28.-waw-(w)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 28. Waw (و)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;w&amp;quot; in &lt;u&gt;w&lt;/u&gt;ash.&lt;/p&gt;
+&lt;h3 id=&quot;29.-yaa-(y)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#29.-yaa-(y)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 29. Yaa (ي)&lt;/h3&gt;
+&lt;p&gt;Pronounced as &amp;quot;y&amp;quot; in &lt;u&gt;y&lt;/u&gt;oung and m&lt;u&gt;ee&lt;/u&gt;t.&lt;/p&gt;
+&lt;h2 id=&quot;lesson-material&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/alphabet/#lesson-material&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Lesson Material&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&quot;https://al-mubeen.com/2-alphabet.pdf&quot;&gt;Video slides&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://andreasmhallberg.github.io/documents/arabic-letters-and-vowel-markers.tex.pdf&quot;&gt;A helpful Arabic letters sheet&lt;/a&gt; by &lt;a href=&quot;https://andreasmhallberg.github.io/&quot;&gt;Andreas Hallberg&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>1) Introduction</title>
+		<link href="https://al-mubeen.com/intro/"/>
+		<updated>2022-02-15T00:00:00Z</updated>
+		<id>https://al-mubeen.com/intro/</id>
+		<content type="html">&lt;p&gt;Arabic was and still one of the most dominant languages in the world. It was the language of science in from Europe to Asia. However, Arabic can still be learned as a side hobby or a leisure activity. After all, Arabic is arguably an aesthetic language in its shear production of poems, mesmerizing calligraphy, and rhetoric. Maybe you want to challenge yourself by mastering a wider range of pronunciation, learning it for religious reasons, or even for studying history. Whatever reason you choose, mastering this single language is your gate to communicating with more than 422 million speakers.&lt;/p&gt;
+&lt;p&gt;Although Arabic does not have common root with Latin, it still has an impact on English, Spanish, and Portuguese. As a warm up for the next lesson, these are some common words with Arabic origin:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Algebra&lt;/li&gt;
+&lt;li&gt;Alcohol&lt;/li&gt;
+&lt;li&gt;Candy&lt;/li&gt;
+&lt;li&gt;Chemistry&lt;/li&gt;
+&lt;li&gt;Coffee&lt;/li&gt;
+&lt;li&gt;Cotton&lt;/li&gt;
+&lt;li&gt;Sugar&lt;/li&gt;
+&lt;/ol&gt;
 </content>
 	</entry>
 </feed>

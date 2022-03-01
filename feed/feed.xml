@@ -5,7 +5,7 @@
 	
 	<link href="https://al-mubeen.com/feed/feed.xml" rel="self"/>
 	<link href="https://al-mubeen.com"/>
-	<updated>2022-03-01T05:27:12Z</updated>
+	<updated>2022-03-01T20:11:11Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name></name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title>8) Family1</title>
 		<link href="https://al-mubeen.com/family1/"/>
-		<updated>2022-03-01T05:27:12Z</updated>
+		<updated>2022-03-01T20:11:11Z</updated>
 		<id>https://al-mubeen.com/family1/</id>
 		<content type="html">&lt;p&gt;This lesson is a review for the &lt;a href=&quot;https://al-mubeen.com/possessive&quot;&gt;possessive case&lt;/a&gt;. It&#39;s recommended to review the &amp;quot;rule of stopping&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/diacritics/&quot;&gt;lesson3&lt;/a&gt;, and &amp;quot;the basic recipe&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/pronouns/&quot;&gt;lesson5&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There is a kind of symmetry in Arabic family names.&lt;/p&gt;
@@ -69,21 +69,11 @@
 	</entry>
 	
 	<entry>
-		<title>7) Greetings</title>
-		<link href="https://al-mubeen.com/greetings/"/>
-		<updated>2022-03-01T05:27:12Z</updated>
-		<id>https://al-mubeen.com/greetings/</id>
-		<content type="html">&lt;h2 id=&quot;greetings&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#greetings&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Greetings&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;مرحباً&lt;/li&gt;
-&lt;li&gt;أهلاً&lt;/li&gt;
-&lt;li&gt;هلا&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Last one is informal.&lt;/p&gt;
-&lt;ol start=&quot;4&quot;&gt;
-&lt;li&gt;سلام: peace&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&quot;prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Prepositions&lt;/h2&gt;
+		<title>7) Possessive</title>
+		<link href="https://al-mubeen.com/possessive/"/>
+		<updated>2022-03-01T20:11:11Z</updated>
+		<id>https://al-mubeen.com/possessive/</id>
+		<content type="html">&lt;h2 id=&quot;prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Prepositions&lt;/h2&gt;
 &lt;p&gt;Prepositions never have Tanween nor are affected by any grammatical case.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;عَنْ: about&lt;/li&gt;
@@ -91,7 +81,7 @@
 &lt;li&gt;إلَى: to&lt;/li&gt;
 &lt;li&gt;عَلَى: on, upon, on top of&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;possessive-prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#possessive-prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive prepositions&lt;/h2&gt;
+&lt;h2 id=&quot;possessive-prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive prepositions&lt;/h2&gt;
 &lt;p&gt;Recall the possessive pronouns from the previous lesson.&lt;/p&gt;
 &lt;p&gt;To say &amp;quot;a pen to you&amp;quot; to a male:&lt;/p&gt;
 &lt;ol&gt;
@@ -108,15 +98,7 @@
 &lt;li&gt;السلام: is ال+سلام, meaning &amp;quot;the peace&amp;quot; or just &amp;quot;peace&amp;quot;&lt;/li&gt;
 &lt;li&gt;عليكم: is على+كم, which is transformed to &amp;quot;عليكم&amp;quot; according to the previous rule.&lt;/li&gt;
 &lt;/ol&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>6) Possessive</title>
-		<link href="https://al-mubeen.com/possessive/"/>
-		<updated>2022-03-01T05:27:12Z</updated>
-		<id>https://al-mubeen.com/possessive/</id>
-		<content type="html">&lt;h2 id=&quot;possessive-pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive pronouns&lt;/h2&gt;
+&lt;h2 id=&quot;possessive-pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive pronouns&lt;/h2&gt;
 &lt;p&gt;Possessive pronouns are just a couple of letters appended to the end of the word.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;My: ي (y)&lt;/li&gt;
@@ -155,7 +137,7 @@
 	<entry>
 		<title>5) Pronouns</title>
 		<link href="https://al-mubeen.com/pronouns/"/>
-		<updated>2022-03-01T05:27:12Z</updated>
+		<updated>2022-03-01T20:11:11Z</updated>
 		<id>https://al-mubeen.com/pronouns/</id>
 		<content type="html">&lt;h2 id=&quot;the-basic-gender-recipe&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#the-basic-gender-recipe&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; The Basic Gender Recipe&lt;/h2&gt;
 &lt;p&gt;As a beginner, you can make the following simplifying assumptions on gender, which we will refer to as the basic recipe:&lt;/p&gt;
@@ -197,11 +179,13 @@
 	</entry>
 	
 	<entry>
-		<title>4) Vocabulary</title>
+		<title>5) Basic Vocabulary</title>
 		<link href="https://al-mubeen.com/basic-words/"/>
-		<updated>2022-03-01T05:27:12Z</updated>
+		<updated>2022-03-01T20:11:11Z</updated>
 		<id>https://al-mubeen.com/basic-words/</id>
-		<content type="html">&lt;center&gt;
+		<content type="html">&lt;h2 id=&quot;writing-practice&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/basic-words/#writing-practice&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Writing practice&lt;/h2&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Xiv-XWrPlMM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;center&gt;
     &lt;a href=&quot;https://al-mubeen.com/basic-words-practice&quot;&gt;Click here for online flashcards.&lt;/a&gt;
 &lt;/center&gt;
 &lt;p&gt;The following is a list of basic vocabulary to practice writing and reading Arabic.&lt;/p&gt;
@@ -234,11 +218,48 @@
 	</entry>
 	
 	<entry>
+		<title>4) Greetings</title>
+		<link href="https://al-mubeen.com/greetings/"/>
+		<updated>2022-03-01T20:11:11Z</updated>
+		<id>https://al-mubeen.com/greetings/</id>
+		<content type="html">&lt;h2 id=&quot;dialogue1&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#dialogue1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Dialogue1&lt;/h2&gt;
+&lt;div dir=&quot;rtl&quot;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/CPJBCzI.png&quot; width=&quot;32px&quot; /&gt; السلامُ عليكم&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8m4AlCT.png&quot; width=&quot;32px&quot; /&gt; وعليكم السلام&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/CPJBCzI.png&quot; width=&quot;32px&quot; /&gt; كيفَ حالُكَ؟&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8m4AlCT.png&quot; width=&quot;32px&quot; /&gt; بخير وأنت؟&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/CPJBCzI.png&quot; width=&quot;32px&quot; /&gt; تمام&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;dialogue2&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#dialogue2&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Dialogue2&lt;/h2&gt;
+&lt;div dir=&quot;rtl&quot;&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/CPJBCzI.png&quot; width=&quot;32px&quot; /&gt; مرحباً&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8m4AlCT.png&quot; width=&quot;32px&quot; /&gt; أهلاً&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/CPJBCzI.png&quot; width=&quot;32px&quot; /&gt; كيفَ الحال؟&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8m4AlCT.png&quot; width=&quot;32px&quot; /&gt; جيدةٌ&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/CPJBCzI.png&quot; width=&quot;32px&quot; /&gt; مع السلامة&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://i.imgur.com/8m4AlCT.png&quot; width=&quot;32px&quot; /&gt; إلى اللقاء&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;greetings&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#greetings&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Greetings&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;سلام: peace&lt;/li&gt;
+&lt;li&gt;الحالُ: the condition&lt;/li&gt;
+&lt;li&gt;جيِّدةٌ: good [f]&lt;/li&gt;
+&lt;li&gt;كيفَ حالُك: how are you?&lt;/li&gt;
+&lt;li&gt;شكراً: Thank you&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
 		<title>3) Diacritics and vowels</title>
 		<link href="https://al-mubeen.com/diacritics/"/>
-		<updated>2022-03-01T05:27:12Z</updated>
+		<updated>2022-03-01T20:11:11Z</updated>
 		<id>https://al-mubeen.com/diacritics/</id>
-		<content type="html">&lt;p&gt;Arabic diacritics, often called Tashkeel (تشكيل), are used to give a word its exact pronunciation. They are used in sacred scriptures, official documents, and children books.&lt;/p&gt;
+		<content type="html">&lt;p&gt;Arabic diacritics, often called Tashkeel (تشكيل), are used to give a word its exact pronunciation.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7LKbEMA1DEQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lS7y3zCRHb4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;p&gt;Arabic has 3 vowels: Alif (ا), Waw (و), and Yaa (ي), which are referred to as long vowels. Arabic is written similar to how &lt;a href=&quot;https://en.wikipedia.org/wiki/Disemvoweling&quot;&gt;disemvowelled English&lt;/a&gt; sentences are written. For example, this sentence: &amp;quot;Yu lrn Arbc&amp;quot; is the disemvoweled sentence of &amp;quot;You learn Arabic&amp;quot;.&lt;/p&gt;

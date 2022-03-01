@@ -1,13 +1,19 @@
 ---
-title: "4) Vocabulary"
+title: "5) Basic Vocabulary"
 descriptions: "Practice writing."
 tags: beginner
 author: Mustafa Alelg
 ---
 
+## Writing practice
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xiv-XWrPlMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 <center>
     <a href="/basic-words-practice">Click here for online flashcards.</a>
 </center>
+
 
 The following is a list of basic vocabulary to practice writing and reading Arabic.
 

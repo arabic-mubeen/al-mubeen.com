@@ -1,11 +1,11 @@
 ---
 title: "3) Diacritics and vowels"
-descriptions: "Arabic is a phonetic language: What you read is what you pronounce."
+description: "Arabic is a phonetic language: What you read is what you pronounce."
 tags: beginner
 author: Mustafa Alelg
 ---
 
-Arabic diacritics, often called Tashkeel (تشكيل), are used to give a word its exact pronunciation. They are used in sacred scriptures, official documents, and children books.
+Arabic diacritics, often called Tashkeel (تشكيل), are used to give a word its exact pronunciation.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/7LKbEMA1DEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

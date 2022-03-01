@@ -13,13 +13,12 @@ Notations used in this website are included in the [convention page](/convention
 
 ## Beginner
 
-1. [Why learn Arabic?](/intro)
-2. [The Arabic Alphabet](/alphabet)
-3. [Diacritics](/diacritics/)
-4. [Basic vocabulary](/vocabulary/)
-5. [Pronouns](/pronouns/)
-7. [Possessive](/possessive/)
-7. [Greetings](/greetings/)
+<ul>
+{%- for post in collections.beginner %}
+<li><a href="{{ post.url }}">{{ post.data.title }}</a></li>
+{% endfor %}
+</ul>
+
 
 ## Intermediate
 

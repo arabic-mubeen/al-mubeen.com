@@ -42,4 +42,3 @@ Example2: أخو زيدٍ
 <center>
     <a href="/family1-practice">Click here to practice with online Flashcards.</a>
 </center>
-

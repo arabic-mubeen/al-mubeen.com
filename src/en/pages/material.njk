@@ -2,15 +2,15 @@
 layout: home.njk
 tags: headerNav
 eleventyNavigation:
-  key: Material
+  key: 📚 Material
   order: 1
 ---
 
 <h1>Material</h1>
 {% include "showcase.njk" %}
 
-<h2>Math blog posts</h2>
-{% set maxPosts = collections.math.length | min(3) %}
-{% set postslist = collections.math | head(-7) %}
-{% set postslistCounter = collections.math | length %}
+<h2>Flashcard Decks</h2>
+{% set maxPosts = collections.flashcards.length | min(3) %}
+{% set postslist = collections.flashcards | head(-7) %}
+{% set postslistCounter = collections.flashcards | length %}
 {% include "postslist.njk" %}

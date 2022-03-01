@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+	<head>
+		<title>{{ title }}</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+		<link rel="stylesheet" href="/js/reset.css">
+		<link rel="stylesheet" href="/js/reveal.css">
+		<link rel="stylesheet" href="/flashcard.css">
+		<link rel="stylesheet" href="/js/plugin/highlight/monokai.css">
+	</head>
+	<body>
+		<div class="reveal">
+			<div class="slides">
+				<section>
+					<h1><a href="{{ lesson | url }}">{{ title }}</a></h1>
+					<h2 style="text-align: center;"><a href="{{ metadata.url }}">{{ metadata.title }}</a></h2>
+					<time datetime="{{ date }}">{{ date | readableDate }}</time>
+				</section>
+					{{ content | safe }}
+				<section>
+					<h1><a href="{{ lesson | url }}">{{ title }}</a></h1>
+					<h2 style="text-align: center;"><a href="{{ metadata.url }}">{{ metadata.title }}</a></h2>
+				</section>
+			</div>
+		</div>
+
+		<script src="/js/reveal.js"></script>
+		<script src="/js/plugin/notes/notes.js"></script>
+		<script src="/js/plugin/markdown/markdown.js"></script>
+		<script src="/js/plugin/highlight/highlight.js"></script>
+		<script>
+			Reveal.initialize({
+				touch: true,
+				hash: true,
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+				transition: 'convex',
+				slideNumber: 'c/t',
+				width: 500,
+				height: 500,
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
+			});
+		</script>
+	</body>
+</html>

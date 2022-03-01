@@ -1,12 +1,12 @@
 {
-  "title": "غيم",
-  "url": "https://mstfelg.github.io/ghaim/ar",
-  "urlEn": "https://mstfelg.github.io/ghaim/en",
+  "title": "مُبين",
+  "url": "https://al-mubeen.com",
+  "arUrl": "https://en.al-mubeen.com",
   "language": "ar",
-  "description": "مدونة مصطفى العلق الشخصية.",
-  "license": "© 2022 مصطفى العلق (CC BY-NC 4.0)",
+  "description": "دروس عربية مجانية مفتوحة المصدر.",
+  "license": "© 2022 مبين (CC BY-NC 4.0)",
   "feed": {
-    "subtitle": "Mustafa Alelg personal blog",
+    "subtitle": "Arabic Mubeen",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -15,9 +15,16 @@
     "path": "/feed/feed.json",
     "url": "https://example.com/feed/feed.json"
   },
-  "author": {
-    "name": "مصطفى العلق",
-    "email": "me@mstfelg.com",
-    "url": "https://mstfelg.com"
-  }
+  "authors": [
+    {
+      "name": "أحمد العلق",
+      "email": "",
+      "url": "https://ahmedelq.sa"
+    },
+    {
+      "name": "مصطفى العلق",
+      "email": "me@mstfelg.com",
+      "url": "https://mstfelg.com"
+    }
+  ]
 }

@@ -5,6 +5,7 @@ module.exports = (eleventyConfig) => {
 
   eleventyConfig.addPassthroughCopy({"./src/en/assets/**/*" : "/"});
   eleventyConfig.addPassthroughCopy({"./src/en/gallery/**/*" : "/"});
+  eleventyConfig.addPassthroughCopy({"./src/en/js" : "/js"});
 
   eleventyConfig.addFilter("readableDate", dateObj => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).setLocale('en').toFormat("DDDD");

@@ -13,10 +13,10 @@
   </head>
   <body>
     <header>
-		<h1><a href={{"/" | url}}>{{ metadata.title }}</a></h1>
+      <h1>
+      <img src="https://github.com/arabic-mubeen.png" width="32px">
+		<a href={{"/" | url}}>{{ metadata.title }}</a></h1>
       <nav>
-	  <a href="{{ metadata.arUrl }}">🇸🇦 AR</a>
-	  <a href="{{ metadata.author.url }}">About</a>
       {%- for entry in collections.headerNav | eleventyNavigation %}
         <a{% if entry.url == page.url %} class="nav-item-active"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
       {%- endfor %}

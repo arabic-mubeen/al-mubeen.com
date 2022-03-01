@@ -1,0 +1,12 @@
+{% for card in deck %}
+<section>
+		<section><h1>{{ card.front }}</h1></section>
+		<section>
+			<h1>{{ card.front }}</h1>
+			<h3>{{ card.roman }}</h3>
+			<h3>{{ card.back }}</h3>
+			<p>{{ card.mnem }}</p>
+			{% if card.img %}<img src="{{ card.img }}">{% endif %}
+		</section>
+</section>
+{% endfor %}

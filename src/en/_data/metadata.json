@@ -1,12 +1,12 @@
 {
-  "title": "Ghaim",
-  "url": "https://mstfelg.github.io/ghaim/en",
-  "arUrl": "https://mstfelg.github.io/ghaim/ar",
+  "title": "Mubeen",
+  "url": "https://al-mubeen.com",
+  "arUrl": "https://ar.al-mubeen.com",
   "language": "en",
-  "description": "Mustafa Alelg's personal blog.",
-  "license": "© 2022 Mustafa Alelg (CC BY-NC 4.0)",
+  "description": "Free Open Source Arabic Lessons.",
+  "license": "© 2022 Mubeen (CC BY-NC 4.0)",
   "feed": {
-    "subtitle": "Mustafa Alelg personal blog",
+    "subtitle": "Arabic Mubeen",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
     "id": "https://example.com/"
@@ -15,9 +15,16 @@
     "path": "/feed/feed.json",
     "url": "https://example.com/feed/feed.json"
   },
-  "author": {
-    "name": "Mustafa Alelg",
-    "email": "me@mstfelg.com",
-    "url": "https://mstfelg.com"
-  }
+  "authors": [
+    {
+      "name": "Ahmed Alelg",
+      "email": "",
+      "url": "https://ahmedelq.sa"
+    },
+    {
+      "name": "Mustafa Alelg",
+      "email": "me@mstfelg.com",
+      "url": "https://mstfelg.com"
+    }
+  ]
 }

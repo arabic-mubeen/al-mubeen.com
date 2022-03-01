@@ -1,45 +1,9 @@
-## Ghaim (غَيْم)
+[![Build Status](https://travis-ci.com/arabic-mubeen/al-mubeen.com.svg?branch=main)](https://travis-ci.com/arabic-mubeen/al-mubeen.com)
 
-Ghaim is a sensible and simple bilingual blogging template.
+![License](https://img.shields.io/github/license/arabic-mubeen/al-mubeen.com.svg)
 
-## Features
+## [al-mubeen.com](al-mubeen.com) source code
 
-1. Bilingual
-2. Simple CSS
-3. KaTeX
+This your clear path to Arabic.
 
-## Installation
-
-```bash
-git clone https://github.com/mstfelg/ghaim
-cd ghaim
-npm run build
-```
-
-Or to start a browsersync session:
-
-```bash
-npm run serve
-```
-
-and
-
-```
-npm run serve:ar
-```
-
-for Arabic.
-
-## Screenshots
-
-### English
-
-![](https://i.imgur.com/BspQqnS.png)
-
-
-
-![](https://i.imgur.com/wjU0biI.png)
-
-### Arabic
-
-![](https://i.imgur.com/H10Y5eA.png)
+We make high quality Arabic lessons. All open source. No ads. No nonsense. Just straightforward simple Arabic lessons.

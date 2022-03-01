@@ -1,0 +1,47 @@
+---
+title: "6) Possessive"
+description: "My, Your, His, Her"
+tags: beginner
+author: Mustafa Alelg
+---
+
+## Possessive pronouns
+
+Possessive pronouns are just a couple of letters appended to the end of the word. 
+
+1. My: ي (y)
+2. Our: نا (na)
+3. Your [m]: كَ (ka)
+4. Your [f]: كِ (ki)
+5. Your [plural]: كُمْ (kum)
+
+Here's the transformation of a possessive case:
+
+1. My pen (English sentence)
+2. Pen My (Flip the order)
+3. قلم+ي (Translate)
+
+Examples:
+
+1. Our pen: قلم+نا = قَلَمُنَا
+2. Your [plural] pen: قلم+كم = قَلَمُكُمْ
+3. Your [f] pen: قَلَمُ+كِ = قَلَمُكِ
+4. Your [m] pen: قَلَمُ+كَ = قَلَمُكَ
+
+## Tanween rules
+
+* Rule: Tanween is never applied to nouns in possessive. 
+
+Recall that Tanween is used for indefinite articles. In Arabic, when a noun belongs to someone/something, it is definite and known by its possessor.
+
+## Possessive grammar
+
+The last Haraka of every word is affected by its grammatical case. The default case to every word is called nominative, where Dhamma  ــُـ ‎ is used at the end.
+
+Example: قَلَمٌ جَيِّدٌ (A good pen) has both "قَلَمٌ" and "جيِّدٌ" as nominative. Notice how ending is Dhamma.
+
+When a singular word is in possessive case, its ending is changed to Kasrah  ــِـ ‎. In all cases, Tanween is just follows the original Haraka. Tanween is but a shorthand to adding a nun at the end.
+
+Example: قَلَمُ مُحَمَّدٍ (Pen of Muhammed)
+
+Romanized as "Qalamu Muhammaden". Notice that pen is defined by it is being belonging to Muhammed, so Tanween must be removed, and Muhammaden is in possessive case.

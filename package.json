@@ -1,10 +1,9 @@
 {
-  "name": "ghaim",
+  "name": "Arabic Mubeen",
   "version": "1.0.0",
-  "description": "A sensible and simple bilingual blog template.",
+  "description": "Free open source Arabic lesson.",
   "scripts": {
-    "build": "eleventy --config .eleventy-en.js && eleventy --config .eleventy-ar.js",
-    "build:ex": "eleventy --config .eleventy-en.js --pathprefix ghaim/en && eleventy --config .eleventy-ar.js --pathprefix ghaim/ar",
+    "build": "eleventy --config .eleventy-en.js",
     "watch": "eleventy --watch --config .eleventy-en.js",
     "serve": "eleventy --serve --config .eleventy-en.js",
     "watch:ar": "eleventy --watch --config .eleventy-ar.js",

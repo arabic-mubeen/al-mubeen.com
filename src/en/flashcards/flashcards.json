@@ -1,0 +1,5 @@
+{
+  "layout": "flashcard",
+  "tags": ["flashcards"],
+  "permalink": "/{{page.fileSlug | trimSlug}}/index.html"
+}

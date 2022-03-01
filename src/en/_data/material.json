@@ -1,50 +1,45 @@
 {
 	"courses" : [
 		{
-			"title": "geometry",
-			"img": "https://mstfelg.com/banner-geo.svg",
+			"title": "Beginner Course",
+			"img": "https://i.imgur.com/WAKwBVA.png",
 			"chapters": [
 				{
-					"title": "orthocenter",
-					"description": "Discovering orthocenter properties",
-					"url": "https://mstfelg.com"
+					"title": "Arabic Alphabet",
+					"description": "Slides of the first lesson.",
+					"url": "/alphabet.pdf"
 				},
 				{
-					"title": "circumcenter",
-					"description": "Circumcenters and perpendicular bisectors.",
-					"url": "https://mstfelg.com"
+					"title": "Mnemonics",
+					"description": "Basic mnemonics for letters",
+					"url": "/letter-mnemonics.pdf"
+				},
+				{
+					"title": "Diacritics",
+					"description": "Diacritics and special glyphs slides",
+					"url": "/diacritics.pdf"
 				}
 			]
 		},
 		{
-			"title": "algebra",
-			"img": "https://mstfelg.com/banner-algebra.svg",
+			"title": "Intermediate Course",
+			"img": "https://i.imgur.com/ejUFtgK.png",
 			"chapters": [
 				{
-					"title": "Polynomials",
-					"description": "Eisenstein's criterion. Irreducibility and more. Even and odd polynomials. Common substitutions.",
-					"url": "https://mstfelg.com"
-				},
-				{
-					"title": "Functions",
-					"description": "Caushy additive functions, multiplicative functions, and Jensen's functions.",
-					"url": "https://mstfelg.com"
+					"title": "Coming soon. Consider supporting us ☝.",
+					"description": "",
+					"url": ""
 				}
 			]
 		},
 		{
-			"title": "number theory",
-			"img": "https://mstfelg.com/banner-nt.svg",
+			"title": "Advanced Course",
+			"img": "https://i.imgur.com/QqIAbKq.png",
 			"chapters": [
 				{
-					"title": "Euler's totient function",
-					"description": "Special case of Fermat's last theorem.",
-					"url": "https://mstfelg.com"
-				},
-				{
-					"title": "Even, odd",
-					"description": "Divisibility rules",
-					"url": "https://mstfelg.com"
+					"title": "Coming soon. Consider supporting us ☝.",
+					"description": "",
+					"url": ""
 				}
 			]
 		}

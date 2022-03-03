@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reading practice</title>
+    <title>Writing practice</title>
     <meta name="description" content="Free Open Source Arabic Lessons.">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.5.1/katex.min.css">
 	<link rel="stylesheet" href="https://unpkg.com/dracula-prism/dist/css/dracula-prism.min.css">
@@ -25,7 +25,7 @@
     </header>
 
 	<main class="tmpl-post">
-      <h1>Reading practice</h1>
+      <h1>Writing practice</h1>
 
 <time datetime="2022-03-01">Tuesday, March 1, 2022</time>&nbsp;| <a href="/flashcards/" class="post-tag">flashcards</a>
 
@@ -33,9 +33,10 @@
 <p>This is basic reading practice with colored letters. Click refresh to get a new exercise.</p>
 <button onClick="lawwin()">Refresh</button>
 <p id="front"></p>
+<p id="middle"></p>
 <p id="back"></p>
 <style>
-	#front, #back {text-align: center; font-size: 150%;}
+	#middle, #front, #back {text-align: center; font-size: 150%;}
 	button {display: block; margin: auto;}
 </style>
 <script>
@@ -52,46 +53,9 @@
 		'\u0652': "",
 	}
 
-	const abjad = {
-		'أ': "a",
-		'آ': "'a",
-		'ا': "a",
-		'ب': "b",
-		'ت': "t",
-		'ث': "ṯ",
-		'ج': "j",
-		'ح': "H",
-		'خ': "x",
-		'د': "d",
-		'ذ': "ḏ",
-		'ر': "r",
-		'ز': "z",
-		'س': "s",
-		'ش': "š",
-		'ص': "S",
-		'ض': "D",
-		'ط': "T",
-		'ظ': "Z",
-		'ع': "3",
-		'غ': "ḡ",
-		'ف': "f",
-		'ق': "q",
-		'ك': "k",
-		'ل': "l",
-		'م': "m",
-		'ن': "n",
-		'ه': "h",
-		'و': "w",
-		'ي': "y",
-		'ؤ': "'u",
-		'ئ': "'e",
-		'ء': "'",
-		'ة': "h",
-		' ': " ",
-	};
+	function isIso(text, i) {return ["ا", "أ", "ر", "و", "ز", "ؤ", "ى", "د", "ذ", "ة"].indexOf(text[i]) != -1 || i == text.length-1; }
 
 	const words = [
-			"الْلُغَةُ العَرَبِيَّةُ",
 			"قَلَمٌ",
 			"جَمَلٌ",
 			"ظَرْفٌ",
@@ -143,41 +107,34 @@
 	function lawwin() {
 		const front = document.querySelector("p#front");
 		const back = document.querySelector("p#back");
-		front.innerHTML = '';
-		back.innerHTML = '';
-		const text = words[randInt(words.length)];
+		const mid = document.querySelector("p#middle");
 
-		for (var i = 0; i < text.length; ++i) {
-			var arBase = text[i];
-			var enBase = abjad[text[i]];
-			var enVwls = "";
-			var arVwls = "";
+		const text = words[randInt(words.length)].replace(/[\u064b-\u064f\u0650-\u0652]/g, "");
 
-			while (tashkeel.hasOwnProperty(text[++i])) {
-				arVwls += text[i];
-				if (arBase == 'ة')
-					enBase = 't'
-				if (text[i] == '\u0651')
-					enBase += enBase;
-				else
-					enVwls += tashkeel[text[i]];
-			}
-			--i;
+		front.innerHTML = text[0];
+		mid.innerHTML = text[0] + (isIso(text, 0) ? "" : "ـ");
+		back.innerHTML = text[0];
 
-			enBase += enVwls;
-			arBase += arVwls;
-
+		for (var i = 1; i < text.length; ++i) {
 			const col = randCol();
-			const arLetter = document.createElement("span");
-				  arLetter.setAttribute("style", `color: ${col};`);
+			const begin = document.createElement("span");
+				  begin.setAttribute("style", `color: ${col};`);
 
-			const enLetter = document.createElement("span");
-				  enLetter.setAttribute("style", `color: ${col};`);
+			const middle = document.createElement("span");
+				  middle.setAttribute("style", `color: ${col};`);
 
-			front.appendChild(arLetter)
-				 .appendChild(document.createTextNode(arBase));
-			back.appendChild(enLetter)
-				 .appendChild(document.createTextNode(enBase));
+			const end = document.createElement("span");
+				  middle.setAttribute("style", `color: ${col};`);
+
+			front.innerHTML += " + ";
+			front.appendChild(begin)
+				 .appendChild(document.createTextNode(text[i]));
+
+			mid.appendChild(middle)
+				.appendChild(document.createTextNode(" + " + (isIso(text, i-1) ? "" : " ـ") + text[i] + (isIso(text, i) ? "" : "ـ ")));
+
+			back.appendChild(end)
+				 .appendChild(document.createTextNode(text[i]));
 		}
 	}
 	function randCol() {

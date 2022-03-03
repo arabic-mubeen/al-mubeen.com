@@ -14,29 +14,40 @@ layout: post
 </style>
 <script>
 	"use strict";
-	
-	const trans = {
+
+	const tashkeel = {
+		'\u064b': "[an]",
+		'\u064c': "[un]",
+		'\u064d': "[en]",
+		'\u064e': "a",
+		'\u064f': "u",
+		'\u0650': "e",
+		'\u0651': "",
+		'\u0652': "",
+	}
+
+	const abjad = {
 		'أ': "a",
-		'آ': "a",
+		'آ': "'a",
 		'ا': "a",
 		'ب': "b",
 		'ت': "t",
-		'ث': "th",
+		'ث': "ṯ",
 		'ج': "j",
-		'ح': "7",
-		'خ': "5",
+		'ح': "H",
+		'خ': "x",
 		'د': "d",
-		'ذ': "th",
+		'ذ': "ḏ",
 		'ر': "r",
 		'ز': "z",
 		'س': "s",
-		'ش': "sh",
-		'ص': "9",
-		'ض': "9'",
-		'ط': "6",
-		'ظ': "6'",
+		'ش': "š",
+		'ص': "S",
+		'ض': "D",
+		'ط': "T",
+		'ظ': "Z",
 		'ع': "3",
-		'غ': "3'",
+		'غ': "ḡ",
 		'ف': "f",
 		'ق': "q",
 		'ك': "k",
@@ -48,16 +59,8 @@ layout: post
 		'ي': "y",
 		'ؤ': "'u",
 		'ئ': "'e",
-		'ء': "a",
+		'ء': "'",
 		'ة': "h",
-		'\u064b': "[an]",
-		'\u064c': "[un]",
-		'\u064d': "[en]",
-		'\u064e': "a",
-		'\u064f': "u",
-		'\u0650': "e",
-		'\u0651': "",
-		'\u0652': "",
 		' ': " ",
 	};
 
@@ -68,8 +71,45 @@ layout: post
 			"ظَرْفٌ",
 			"لَيلٌ",
 			"قَمَرٌ",
-			"شَدّةٌ",
 			"ضِدٌّ",
+"اِسْمٌ", 
+"بَحْرٌ", 
+"تَمْرٌ", 
+"ثَوْبٌ", 
+"جَمَلٌ", 
+"حِصَاْنٌ", 
+"خُبْزٌ", 
+"دُبٌّ", 
+"قَلَمٌ", 
+"ظَرْفٌ", 
+"بَقَرَةٌ", 
+"سَمَكَةٌ", 
+"جَزْءٌ", 
+"بِدايَةٌ", 
+"عَامٌ", 
+"كُلُّ", 
+"صَبَاحُ", 
+"خَيْرٌ", 
+"مَسَاءٌ", 
+"نُوْرٌ", 
+"جَميلَةٌ", 
+"جَمِيْلٌ", 
+"شُكْراً", 
+"عَفْواً", 
+"كَيْفَ", 
+"أَنَا", 
+"أَنْتَ", 
+"لِمَاذا", 
+"أَيْنَ", 
+"أَبَداً", 
+"ذَكَرَ", 
+"الأحَدُ", 
+"الاثْنَيْنِ", 
+"الثُلاثَاءُ", 
+"الأرْبِعاءُ", 
+"الخَميْسُ", 
+"الْجُمُعَةُ", 
+"السَّبْتُ", 
 		];
 
 	window.onload = lawwin();
@@ -80,16 +120,38 @@ layout: post
 		front.innerHTML = '';
 		back.innerHTML = '';
 		const text = words[randInt(words.length)];
-		for (var i in text) {
+
+		for (var i = 0; i < text.length; ++i) {
+			var arBase = text[i];
+			var enBase = abjad[text[i]];
+			var enVwls = "";
+			var arVwls = "";
+
+			while (tashkeel.hasOwnProperty(text[++i])) {
+				arVwls += text[i];
+				if (arBase == 'ة')
+					enBase = 't'
+				if (text[i] == '\u0651')
+					enBase += enBase;
+				else
+					enVwls += tashkeel[text[i]];
+			}
+			--i;
+
+			enBase += enVwls;
+			arBase += arVwls;
+
 			const col = randCol();
 			const arLetter = document.createElement("span");
-			arLetter.setAttribute("style", `color: ${col};`);
+				  arLetter.setAttribute("style", `color: ${col};`);
+
 			const enLetter = document.createElement("span");
-			enLetter.setAttribute("style", `color: ${col};`);
+				  enLetter.setAttribute("style", `color: ${col};`);
+
 			front.appendChild(arLetter)
-				 .appendChild(document.createTextNode(text[i]));
+				 .appendChild(document.createTextNode(arBase));
 			back.appendChild(enLetter)
-				 .appendChild(document.createTextNode(trans[text[i]]));
+				 .appendChild(document.createTextNode(enBase));
 		}
 	}
 	function randCol() {

@@ -2,7 +2,7 @@
 title: Conventions
 ---
 
-The romanization (transliteration) system used on the website is the following:
+The transliteration system used in lessons follows:
 
 | ث    | ṯ    |
 | ---- | ---- |
@@ -13,26 +13,37 @@ The romanization (transliteration) system used on the website is the following:
 | ص    | S    |
 | ء    | '    |
 
-## Heavy variants
+## Heavy letters
 
-There are letter pairs having one letter as just a heavy version of the other.
+There are pairs of letters where one as just a heavy version of the other.
 
-| Heavy letter | Trans | Letter | Trans |
-| ------------ | ----- | ------ | ----- |
-| ح            | H     | هـ     | h     |
-| ق            | q     | ك      | k     |
-| ص            | S     | س      | s     |
-| ض            | D     | د      | d     |
-| ظ            | Z     | ذ      | ḏ     |
-| ط            | T     | ت      | t     |
+| Heavy letter | EN   | Letter | EN   |
+| ------------ | ---- | ------ | ---- |
+| ح            | H    | هـ     | h    |
+| ق            | q    | ك      | k    |
+| ص            | S    | س      | s    |
+| ض            | D    | د      | d    |
+| ظ            | Z    | ذ      | ḏ    |
+| ط            | T    | ت      | t    |
+
+## Tanween
+
+Tanween is indicated by square brackets to 1) distinguish it from Alif + Nun (ان) and 2) hint out [the rule of stopping](vowels/#rule-of-stopping).
+
+| ـً    | [an] |
+| ---- | ---- |
+| ـٍ    | [en] |
+| ـٌ    | [un] |
 
 Example:
 
 1. العربية: Al3arabyyah
 
-## Gender
+Check more examples in the [reading practice](/reading-practice) for [lesson2](/vowels)
 
-Gender is indicated by using [f] for feminine nouns and adjectives, and [m] otherwise. Dual is indicated by [2].
+## Gender and Duals
+
+Gender is indicated by [f] for feminine nouns and adjectives, and [m] otherwise. Dual is indicated by [2].
 
 1. هذا: this [m]
 2. هذه: this [f]

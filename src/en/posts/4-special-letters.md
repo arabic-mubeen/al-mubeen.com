@@ -1,5 +1,6 @@
 ---
 title: 4) Special letters
+tags: beginner
 date: 2022-03-05
 description: Closing in all of the Arabic alphabet.
 author: Mustafa Alelg

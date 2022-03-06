@@ -5,7 +5,7 @@
 	
 	<link href="https://al-mubeen.com/feed/feed.xml" rel="self"/>
 	<link href="https://al-mubeen.com"/>
-	<updated>2022-03-03T01:32:29Z</updated>
+	<updated>2022-03-06T02:13:32Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name></name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title>8) Family1</title>
 		<link href="https://al-mubeen.com/family1/"/>
-		<updated>2022-03-03T01:32:29Z</updated>
+		<updated>2022-03-06T02:13:32Z</updated>
 		<id>https://al-mubeen.com/family1/</id>
 		<content type="html">&lt;p&gt;This lesson is a review for the &lt;a href=&quot;https://al-mubeen.com/possessive&quot;&gt;possessive case&lt;/a&gt;. It&#39;s recommended to review the &amp;quot;rule of stopping&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/diacritics/&quot;&gt;lesson3&lt;/a&gt;, and &amp;quot;the basic recipe&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/pronouns/&quot;&gt;lesson5&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There is a kind of symmetry in Arabic family names.&lt;/p&gt;
@@ -69,9 +69,9 @@
 	</entry>
 	
 	<entry>
-		<title>7) Possessive</title>
+		<title>7) Possession</title>
 		<link href="https://al-mubeen.com/possessive/"/>
-		<updated>2022-03-03T01:32:29Z</updated>
+		<updated>2022-03-06T02:13:32Z</updated>
 		<id>https://al-mubeen.com/possessive/</id>
 		<content type="html">&lt;h2 id=&quot;prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Prepositions&lt;/h2&gt;
 &lt;p&gt;Prepositions never have Tanween nor are affected by any grammatical case.&lt;/p&gt;
@@ -135,38 +135,126 @@
 	</entry>
 	
 	<entry>
-		<title>5) Pronouns</title>
+		<title>6) Pronouns1</title>
 		<link href="https://al-mubeen.com/pronouns/"/>
-		<updated>2022-03-03T01:32:29Z</updated>
+		<updated>2022-03-06T02:13:32Z</updated>
 		<id>https://al-mubeen.com/pronouns/</id>
 		<content type="html">&lt;h2 id=&quot;the-basic-gender-recipe&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#the-basic-gender-recipe&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; The Basic Gender Recipe&lt;/h2&gt;
-&lt;p&gt;As a beginner, you can make the following simplifying assumptions on gender, which we will refer to as the basic recipe:&lt;/p&gt;
+&lt;p&gt;As a beginner, you can make the following simplifying assumptions on gender, which we will refer to as the basic gender recipe:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;If a noun ends with Taa Marbuta (ـة), then it is most likely feminine, otherwise it is most likely masculine.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;The opposite is roughly a correct rule too:&lt;/p&gt;
+&lt;p&gt;Examples: try to guess the gender of these random words&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;مُدَرِّس&lt;/li&gt;
+&lt;li&gt;مَدرسَةٌ&lt;/li&gt;
+&lt;li&gt;قاعٌ&lt;/li&gt;
+&lt;li&gt;قاعةٌ&lt;/li&gt;
+&lt;li&gt;دولة&lt;/li&gt;
+&lt;li&gt;جيِّدٌ&lt;/li&gt;
+&lt;li&gt;جَيّدةٌ&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Solution: [♂️, ♀️, ♂️, ♀️, ♀️, ♂️, ♀️]&lt;/p&gt;
+&lt;p&gt;You may have noticed from these examples some pattern. The opposite is roughly a correct rule too but on adjectives:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;If an adjective is masculine, then adding (ـة) will make it feminine.&lt;/li&gt;
+&lt;li&gt;If an adjective is masculine, then adding Taa Marbuta (ة) will make it feminine.&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&quot;reversed-adjectives&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#reversed-adjectives&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Reversed adjectives&lt;/h3&gt;
+&lt;p&gt;Finally, an important note is that noun/adjectives order is reversed: so to say &amp;quot;Good pen&amp;quot; in Arabic, first you say the noun then the adjectives.&lt;/p&gt;
+&lt;img src=&quot;https://i.imgur.com/RUNj6ki.png&quot; /&gt;
+&lt;p&gt;Exercises: We learned basic words from previous lessons, let&#39;s review some and make sentences:&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Adjective [m]&lt;/th&gt;
+&lt;th&gt;Pronunciation&lt;/th&gt;
+&lt;th&gt;Translation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;جَيِّدٌ&lt;/td&gt;
+&lt;td&gt;jayyed[un]&lt;/td&gt;
+&lt;td&gt;good&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;سَيِّئٌ&lt;/td&gt;
+&lt;td&gt;sayye&#39;[un]&lt;/td&gt;
+&lt;td&gt;bad&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;جَمِيلٌ&lt;/td&gt;
+&lt;td&gt;jameel[un]&lt;/td&gt;
+&lt;td&gt;beautiful&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;Exercises:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beautiful sea&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;From the basic recipe we guess that بحر is masculine, and it should come before what describes it: جميل. So the translation is: بَحْرٌ جَميلٌ.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Beautiful girl&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Girl in Arabic is &amp;quot;بنتٌ&amp;quot; which is feminine, so &amp;quot;جميل&amp;quot; is converted to feminine by adding (ة): بِنتٌ جَميلَةٌ&lt;/p&gt;
 &lt;h2 id=&quot;this&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#this&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; This&lt;/h2&gt;
 &lt;ol&gt;
-&lt;li&gt;هَذَا: haaTha&lt;/li&gt;
+&lt;li&gt;هَذَا: haaḏa&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Means &amp;quot;this&amp;quot; for a masculine noun. We will denote it by &amp;quot;this [m]&amp;quot; for short.&lt;/p&gt;
 &lt;ol start=&quot;2&quot;&gt;
-&lt;li&gt;هَذِهِ: haaThehe&lt;/li&gt;
+&lt;li&gt;هَذِهِ: haaḏehe&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Means &amp;quot;this&amp;quot; for a feminine noun. We will denote it by &amp;quot;this [f]&amp;quot; for short.&lt;/p&gt;
 &lt;p&gt;Common mistake: هَذِهِ ends with a regular Haa (ه) not Taa Marbuta (ة)&lt;/p&gt;
 &lt;p&gt;Notice that in both Arabic &amp;quot;this&amp;quot; words, there is no Alif like: (هاذا), (هاذه) despite pronouncing it. Why is that? because &amp;quot;this&amp;quot; is so common that it became typical to drop its Alif.&lt;/p&gt;
-&lt;h2 id=&quot;subject-pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#subject-pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Subject pronouns&lt;/h2&gt;
+&lt;p&gt;Examples:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a good boy&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Good boy --&amp;gt; boy good --&amp;gt;  وَلَدٌ جيِّدٌ&lt;/p&gt;
+&lt;p&gt;This is a good boy --&amp;gt; هذا وَلَدٌ جيِّدٌ&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This is a big sea&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Big sea --&amp;gt; sea big --&amp;gt; بَحرٌ كَبيرٌ&lt;/p&gt;
+&lt;p&gt;This is a big sea --&amp;gt; هذا بَحْرٌ كَبيرٌ&lt;/p&gt;
+&lt;p&gt;To say this is a big sea, just add &amp;quot;this [m]&amp;quot;.&lt;/p&gt;
+&lt;h2 id=&quot;pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Pronouns&lt;/h2&gt;
+&lt;h3 id=&quot;1)-ana-(i-am)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#1)-ana-(i-am)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 1) Ana (I am)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;أنا: I&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Example1:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am good&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;If you are a woman you choose the feminine version of &amp;quot;good&amp;quot;:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;أنا: I/I am&lt;/li&gt;
-&lt;li&gt;أَنْتَ: You [m]&lt;/li&gt;
-&lt;li&gt;أَنْتِ: You [f]&lt;/li&gt;
-&lt;li&gt;هُوَ: he&lt;/li&gt;
-&lt;li&gt;هِيَ: she&lt;/li&gt;
+&lt;li&gt;♂️: أنا جَيّدٌ&lt;/li&gt;
+&lt;li&gt;♀️: أنا جَيّدةٌ&lt;/li&gt;
 &lt;/ol&gt;
+&lt;p&gt;Exercises: translate this in the comments.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I am beautiful.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;2)-anta-(you-m)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#2)-anta-(you-m)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 2) Anta (You [m])&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;أَنْتَ: You [m]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;3)-ante-(you-f)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#3)-ante-(you-f)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 3) Ante (You [f])&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;أَنْتِ: You [f]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;4)-huwa-(he)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#4)-huwa-(he)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 4) Huwa (he)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;هُوَ: he&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&quot;5-heya-(she)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#5-heya-(she)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 5 Heya (she)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;هِيَ: she&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&quot;what-about-am-is-are&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#what-about-am-is-are&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; What about Am, Is, Are?&lt;/h2&gt;
 &lt;p&gt;Arabic grammar is concise. Want to say &amp;quot;Sky is blue&amp;quot;? just put &amp;quot;blue&amp;quot; after &amp;quot;sky&amp;quot; in a sentence: &amp;quot;sky blue&amp;quot;. Applying this concept, to say:&lt;/p&gt;
 &lt;ol&gt;
@@ -179,48 +267,9 @@
 	</entry>
 	
 	<entry>
-		<title>5) Basic Vocabulary</title>
-		<link href="https://al-mubeen.com/basic-words/"/>
-		<updated>2022-03-03T01:32:29Z</updated>
-		<id>https://al-mubeen.com/basic-words/</id>
-		<content type="html">&lt;h2 id=&quot;writing-practice&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/basic-words/#writing-practice&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Writing practice&lt;/h2&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Xiv-XWrPlMM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;center&gt;
-    &lt;a href=&quot;https://al-mubeen.com/basic-words-practice&quot;&gt;Click here for online flashcards.&lt;/a&gt;
-&lt;/center&gt;
-&lt;p&gt;The following is a list of basic vocabulary to practice writing and reading Arabic.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;ا: اِسْمٌ&lt;/li&gt;
-&lt;li&gt;ب: بَحْرٌ&lt;/li&gt;
-&lt;li&gt;ت: تَمْرٌ&lt;/li&gt;
-&lt;li&gt;ث: ثَوْبٌ&lt;/li&gt;
-&lt;li&gt;ج: جَمَلٌ&lt;/li&gt;
-&lt;li&gt;ح: حِصَاْنٌ&lt;/li&gt;
-&lt;li&gt;خ: خُبْزٌ&lt;/li&gt;
-&lt;li&gt;د: دُبٌّ&lt;/li&gt;
-&lt;li&gt;ق: قَلَمٌ&lt;/li&gt;
-&lt;li&gt;ظ: ظَرْفٌ&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Translations in order:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;اسم: noun&lt;/li&gt;
-&lt;li&gt;بحر: sea&lt;/li&gt;
-&lt;li&gt;تمر: dates&lt;/li&gt;
-&lt;li&gt;ثوب: dress&lt;/li&gt;
-&lt;li&gt;جمل: camel&lt;/li&gt;
-&lt;li&gt;حصان: horse&lt;/li&gt;
-&lt;li&gt;خبز: bread&lt;/li&gt;
-&lt;li&gt;دب: bear&lt;/li&gt;
-&lt;li&gt;قلم: pen&lt;/li&gt;
-&lt;li&gt;ظرف: envelope or situation&lt;/li&gt;
-&lt;/ol&gt;
-</content>
-	</entry>
-	
-	<entry>
-		<title>4) Greetings</title>
+		<title>5) Greetings</title>
 		<link href="https://al-mubeen.com/greetings/"/>
-		<updated>2022-03-03T01:32:29Z</updated>
+		<updated>2022-03-06T02:13:32Z</updated>
 		<id>https://al-mubeen.com/greetings/</id>
 		<content type="html">&lt;h2 id=&quot;dialogue1&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#dialogue1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Dialogue1&lt;/h2&gt;
 &lt;div dir=&quot;rtl&quot;&gt;
@@ -255,14 +304,13 @@
 	</entry>
 	
 	<entry>
-		<title>3) Diacritics and vowels</title>
-		<link href="https://al-mubeen.com/diacritics/"/>
-		<updated>2022-03-03T01:32:29Z</updated>
-		<id>https://al-mubeen.com/diacritics/</id>
+		<title>3) Vowels</title>
+		<link href="https://al-mubeen.com/vowels/"/>
+		<updated>2022-03-06T02:13:32Z</updated>
+		<id>https://al-mubeen.com/vowels/</id>
 		<content type="html">&lt;p&gt;Arabic diacritics, often called Tashkeel (تشكيل), are used to give a word its exact pronunciation.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7LKbEMA1DEQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lS7y3zCRHb4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;p&gt;Arabic has 3 vowels: Alif (ا), Waw (و), and Yaa (ي), which are referred to as long vowels. Arabic is written similar to how &lt;a href=&quot;https://en.wikipedia.org/wiki/Disemvoweling&quot;&gt;disemvowelled English&lt;/a&gt; sentences are written. For example, this sentence: &amp;quot;Yu lrn Arbc&amp;quot; is the disemvoweled sentence of &amp;quot;You learn Arabic&amp;quot;.&lt;/p&gt;
+&lt;p&gt;Arabic has 3 vowel letters (aka long vowels): Alif (ا), Waw (و), and Yaa (ي), and equivalent three short vowels. Arabic is written similar to how &lt;a href=&quot;https://en.wikipedia.org/wiki/Disemvoweling&quot;&gt;disemvowelled English&lt;/a&gt; sentences are written. For example, this sentence: &amp;quot;Yu lrn Arbc&amp;quot; is the disemvoweled sentence of &amp;quot;You learn Arabic&amp;quot;.&lt;/p&gt;
 &lt;p&gt;Arabic diacritics consist of:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Harakat (حركات): to indicate short vowels.&lt;/li&gt;
@@ -270,45 +318,118 @@
 &lt;li&gt;Sukoon (سكون): to indicate absence of vowel.&lt;/li&gt;
 &lt;li&gt;Shadda (شدّة): to indicate a stress in a vowel.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;tanween&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#tanween&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween&lt;/h2&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;&lt;u&gt;Rule of Tanween&lt;/u&gt;&lt;/strong&gt;: Tanween indicates indefinite article.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;h2 id=&quot;tanween&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/vowels/#tanween&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Rule of Tanween&lt;/strong&gt;: Tanween indicates indefinite article.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;p&gt;From this rule we can conclude:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Tanween is &lt;strong&gt;always&lt;/strong&gt; at the end of the word.&lt;/li&gt;
+&lt;li&gt;Tanween is always at the end of the word.&lt;/li&gt;
 &lt;li&gt;Tanween cannot be applied to verbs or prepositions.&lt;/li&gt;
 &lt;li&gt;When there is Tanween on a word, it must be a noun.&lt;/li&gt;
-&lt;li&gt;And this noun, cannot be preceded by the Arabic &amp;quot;the&amp;quot; (ال) because it is indefinite.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h3 id=&quot;tanween-fath-(an)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#tanween-fath-(an)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween FatH (ـً)&lt;/h3&gt;
+&lt;h3 id=&quot;tanween-fath-(an)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/vowels/#tanween-fath-(an)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween FatH (ـً)&lt;/h3&gt;
 &lt;p&gt;The special thing about Tanween FatH (ـً) is that it is often accompanied by a silent Alif (ا)&lt;/p&gt;
 &lt;p&gt;Example: شُكراً (Shukran - Thanks)&lt;/p&gt;
-&lt;p&gt;Notice that Tanween is fully pronounced despite stopping.&lt;/p&gt;
-&lt;h2 id=&quot;rule-of-stopping&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#rule-of-stopping&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Rule of Stopping&lt;/h2&gt;
-&lt;p&gt;It is more natural in speech to dismiss the last diacritics when stopping at a word (e.g: taking a breath, full stop, etc.).&lt;/p&gt;
-&lt;p&gt;Throughout the lessons, we may disregard this rule to clarify correct diacritics. The rule of stopping does not apply to long vowels; they will still be pronounced.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Example1: مُحمّدٌ جيّدٌ (Muhammed is good)&lt;/p&gt;
-&lt;p&gt;Written as: &amp;quot;Muhammadun Jayyedun&amp;quot;, but pronounced as &amp;quot;Muhammadun Jayyed&amp;quot;, since we stopped at &amp;quot;جيّدٌ&amp;quot; but continued on &amp;quot;مُحمّدٌ&amp;quot;.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Rule of stopping is often disregarded for Tanween FatH&lt;/p&gt;
-&lt;p&gt;Example2: شُكراً جزيلاً (Thank you very much)&lt;/p&gt;
-&lt;p&gt;Pronounced: &amp;quot;Shukran Jazeelan&amp;quot; with a nun pronounced on both words.&lt;/p&gt;
-&lt;h3 id=&quot;taa-marbuta-(h)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#taa-marbuta-(h)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Taa Marbuta (ـة)&lt;/h3&gt;
-&lt;p&gt;Taa Marbuta is just Taa (ت) and Haa (ـه) joined together.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://al-mubeen.com/taa-marbuta.png&quot; alt=&quot;Taa Marbuta is Taa and Haa&quot; /&gt;&lt;/p&gt;
-&lt;p&gt;Taa Marbuta is pronounced Taa (ت) when its diacritic is pronounced, and as a Haa (ه) when dismissing diacritics. To remember this rule here is a mnemonic:&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;[H]alt: Haa ه&lt;/li&gt;
-&lt;li&gt;[T]anween or con[T]inue: Taa ت&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Taa Marbuta (ـة) &lt;u&gt;&lt;strong&gt;always&lt;/strong&gt;&lt;/u&gt; comes at the end of &lt;em&gt;nouns&lt;/em&gt;, and as a rule of thumb, most of these nouns are feminine. In the next lesson we will cover more about gender in Arabic.&lt;/p&gt;
-&lt;h2 id=&quot;lesson-material&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/diacritics/#lesson-material&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Lesson material&lt;/h2&gt;
+&lt;h2 id=&quot;practice&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/vowels/#practice&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Practice&lt;/h2&gt;
+&lt;p&gt;The following is a list of basic vocabulary to practice writing and reading. Check &lt;a href=&quot;https://al-mubeen.com/writing-practice&quot;&gt;writing practice&lt;/a&gt; and &lt;a href=&quot;https://al-mubeen.com/reading-practice&quot;&gt;reading practice&lt;/a&gt; for free practice flashcards.&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Word&lt;/th&gt;
+&lt;th&gt;Pronunciation&lt;/th&gt;
+&lt;th&gt;Translation&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;اِسْمٌ&lt;/td&gt;
+&lt;td&gt;ism[un]&lt;/td&gt;
+&lt;td&gt;noun&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;بَحْرٌ&lt;/td&gt;
+&lt;td&gt;baHr[un]&lt;/td&gt;
+&lt;td&gt;sea&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;تَمْرٌ&lt;/td&gt;
+&lt;td&gt;tamr[un]&lt;/td&gt;
+&lt;td&gt;dates (fruit)&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ثَوْبٌ&lt;/td&gt;
+&lt;td&gt;thawb[un]&lt;/td&gt;
+&lt;td&gt;dress&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;جَمَلٌ&lt;/td&gt;
+&lt;td&gt;jamal[un]&lt;/td&gt;
+&lt;td&gt;camel&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;حِصَاْنٌ&lt;/td&gt;
+&lt;td&gt;heSan[un]&lt;/td&gt;
+&lt;td&gt;horse&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;خُبْزٌ&lt;/td&gt;
+&lt;td&gt;xubz[un]&lt;/td&gt;
+&lt;td&gt;bread&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;دُبٌّ&lt;/td&gt;
+&lt;td&gt;dubb[un]&lt;/td&gt;
+&lt;td&gt;bear&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;قَلَمٌ&lt;/td&gt;
+&lt;td&gt;qalam[un]&lt;/td&gt;
+&lt;td&gt;pen&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;ظَرْفٌ&lt;/td&gt;
+&lt;td&gt;Zarf[un]&lt;/td&gt;
+&lt;td&gt;situation&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Xiv-XWrPlMM&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;More material:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;a href=&quot;https://al-mubeen.com/3-diacritics.pdf&quot;&gt;Video slides&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&quot;https://andreasmhallberg.github.io/documents/arabic-letters-and-vowel-markers.tex.pdf&quot;&gt;A helpful Arabic letters sheet&lt;/a&gt; by &lt;a href=&quot;https://andreasmhallberg.github.io/&quot;&gt;Andreas Hallberg&lt;/a&gt;.&lt;/li&gt;
 &lt;/ol&gt;
+</content>
+	</entry>
+	
+	<entry>
+		<title>4) Special letters</title>
+		<link href="https://al-mubeen.com/special-letters/"/>
+		<updated>2022-03-05T00:00:00Z</updated>
+		<id>https://al-mubeen.com/special-letters/</id>
+		<content type="html">&lt;p&gt;This lesson covers how letters are affected by vowels.&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/lS7y3zCRHb4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;h2 id=&quot;rule-of-stopping&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/special-letters/#rule-of-stopping&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Rule of Stopping&lt;/h2&gt;
+&lt;p&gt;It is more natural in speech to dismiss ending vowels when stopping at a word (e.g: taking a breath, full stop, etc.). We may disregard this rule in lessons to clarify correct pronunciation.&lt;/p&gt;
+&lt;p&gt;The rule of stopping applies only to short vowels (Tashkeel) and Tanween; Long vowels (Alif, Waw, Yaa) will still be pronounced. Only exception is Tanweet FatH (اً), which is usually pronounced despite stopping.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Example1: قَلَمٌ جيّدٌ (A good pen)&lt;/p&gt;
+&lt;p&gt;Written as: &amp;quot;Qalamun Jayyedun&amp;quot;, but naturally pronounced as &amp;quot;Qalamun Jayyed&amp;quot;, since we stopped at &amp;quot;جيّدٌ&amp;quot; but continued on &amp;quot;قلم&amp;quot;.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Example2: شُكراً جزيلاً (Thank you very much)&lt;/p&gt;
+&lt;p&gt;Pronounced: &amp;quot;Shukran Jazeelan&amp;quot; with suffix [an] pronounced on both words.&lt;/p&gt;
+&lt;h3 id=&quot;taa-marbuta-(h)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/special-letters/#taa-marbuta-(h)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Taa Marbuta (ة)&lt;/h3&gt;
+&lt;p&gt;Taa Marbuta (meaning bound Taa) is just Taa (ت) and Haa (ة) joined together.&lt;/p&gt;
+&lt;img src=&quot;https://i.imgur.com/DX7JukO.png&quot; /&gt;
+&lt;p&gt;Taa Marbuta is pronounced Taa (ت) when its diacritic is pronounced, and as a Haa (ه) when its diacritic is dismissed. To remember this rule here is a mnemonic:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;[H]alt: Haa ه&lt;/li&gt;
+&lt;li&gt;[T]anween or con[T]inue: Taa ت&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Taa Marbuta (ـة) &lt;em&gt;always&lt;/em&gt; comes at the end of &lt;em&gt;nouns&lt;/em&gt;, and as a rule of thumb, most of these nouns are feminine. In the next lesson we will cover more about gender in Arabic.&lt;/p&gt;
+&lt;h2 id=&quot;practice&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/special-letters/#practice&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Practice&lt;/h2&gt;
+&lt;p&gt;Check &lt;a href=&quot;https://al-mubeen.com/writing-practice&quot;&gt;writing practice&lt;/a&gt; and &lt;a href=&quot;https://al-mubeen.com/reading-practice&quot;&gt;reading practice&lt;/a&gt; for free practice flashcards.&lt;/p&gt;
 </content>
 	</entry>
 	

@@ -5,7 +5,7 @@
 	
 	<link href="https://al-mubeen.com/feed/feed.xml" rel="self"/>
 	<link href="https://al-mubeen.com"/>
-	<updated>2022-03-06T02:13:32Z</updated>
+	<updated>2022-03-06T02:33:07Z</updated>
 	<id>https://example.com/</id>
 	<author>
 		<name></name>
@@ -15,7 +15,7 @@
 	<entry>
 		<title>8) Family1</title>
 		<link href="https://al-mubeen.com/family1/"/>
-		<updated>2022-03-06T02:13:32Z</updated>
+		<updated>2022-03-06T02:33:07Z</updated>
 		<id>https://al-mubeen.com/family1/</id>
 		<content type="html">&lt;p&gt;This lesson is a review for the &lt;a href=&quot;https://al-mubeen.com/possessive&quot;&gt;possessive case&lt;/a&gt;. It&#39;s recommended to review the &amp;quot;rule of stopping&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/diacritics/&quot;&gt;lesson3&lt;/a&gt;, and &amp;quot;the basic recipe&amp;quot; in &lt;a href=&quot;https://al-mubeen.com/pronouns/&quot;&gt;lesson5&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;There is a kind of symmetry in Arabic family names.&lt;/p&gt;
@@ -70,10 +70,10 @@
 	
 	<entry>
 		<title>7) Possession</title>
-		<link href="https://al-mubeen.com/possessive/"/>
-		<updated>2022-03-06T02:13:32Z</updated>
-		<id>https://al-mubeen.com/possessive/</id>
-		<content type="html">&lt;h2 id=&quot;prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Prepositions&lt;/h2&gt;
+		<link href="https://al-mubeen.com/possession1/"/>
+		<updated>2022-03-06T02:33:07Z</updated>
+		<id>https://al-mubeen.com/possession1/</id>
+		<content type="html">&lt;h2 id=&quot;prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possession1/#prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Prepositions&lt;/h2&gt;
 &lt;p&gt;Prepositions never have Tanween nor are affected by any grammatical case.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;عَنْ: about&lt;/li&gt;
@@ -81,7 +81,7 @@
 &lt;li&gt;إلَى: to&lt;/li&gt;
 &lt;li&gt;عَلَى: on, upon, on top of&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;possessive-prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive prepositions&lt;/h2&gt;
+&lt;h2 id=&quot;possessive-prepositions&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possession1/#possessive-prepositions&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive prepositions&lt;/h2&gt;
 &lt;p&gt;Recall the possessive pronouns from the previous lesson.&lt;/p&gt;
 &lt;p&gt;To say &amp;quot;a pen to you&amp;quot; to a male:&lt;/p&gt;
 &lt;ol&gt;
@@ -98,7 +98,7 @@
 &lt;li&gt;السلام: is ال+سلام, meaning &amp;quot;the peace&amp;quot; or just &amp;quot;peace&amp;quot;&lt;/li&gt;
 &lt;li&gt;عليكم: is على+كم, which is transformed to &amp;quot;عليكم&amp;quot; according to the previous rule.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;possessive-pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive pronouns&lt;/h2&gt;
+&lt;h2 id=&quot;possessive-pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possession1/#possessive-pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive pronouns&lt;/h2&gt;
 &lt;p&gt;Possessive pronouns are just a couple of letters appended to the end of the word.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;My: ي (y)&lt;/li&gt;
@@ -120,12 +120,12 @@
 &lt;li&gt;Your [f] pen: قَلَمُ+كِ = قَلَمُكِ&lt;/li&gt;
 &lt;li&gt;Your [m] pen: قَلَمُ+كَ = قَلَمُكَ&lt;/li&gt;
 &lt;/ol&gt;
-&lt;h2 id=&quot;tanween-rules&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#tanween-rules&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween rules&lt;/h2&gt;
+&lt;h2 id=&quot;tanween-rules&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possession1/#tanween-rules&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Tanween rules&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Rule: Tanween is never applied to nouns in possessive.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Recall that Tanween is used for indefinite articles. In Arabic, when a noun belongs to someone/something, it is definite and known by its possessor.&lt;/p&gt;
-&lt;h2 id=&quot;possessive-grammar&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possessive/#possessive-grammar&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive grammar&lt;/h2&gt;
+&lt;h2 id=&quot;possessive-grammar&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/possession1/#possessive-grammar&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Possessive grammar&lt;/h2&gt;
 &lt;p&gt;The last Haraka of every word is affected by its grammatical case. The default case to every word is called nominative, where Dhamma  ــُـ ‎ is used at the end.&lt;/p&gt;
 &lt;p&gt;Example: قَلَمٌ جَيِّدٌ (A good pen) has both &amp;quot;قَلَمٌ&amp;quot; and &amp;quot;جيِّدٌ&amp;quot; as nominative. Notice how ending is Dhamma.&lt;/p&gt;
 &lt;p&gt;When a singular word is in possessive case, its ending is changed to Kasrah  ــِـ ‎. In all cases, Tanween is just follows the original Haraka. Tanween is but a shorthand to adding a nun at the end.&lt;/p&gt;
@@ -136,10 +136,10 @@
 	
 	<entry>
 		<title>6) Pronouns1</title>
-		<link href="https://al-mubeen.com/pronouns/"/>
-		<updated>2022-03-06T02:13:32Z</updated>
-		<id>https://al-mubeen.com/pronouns/</id>
-		<content type="html">&lt;h2 id=&quot;the-basic-gender-recipe&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#the-basic-gender-recipe&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; The Basic Gender Recipe&lt;/h2&gt;
+		<link href="https://al-mubeen.com/pronouns1/"/>
+		<updated>2022-03-06T02:33:07Z</updated>
+		<id>https://al-mubeen.com/pronouns1/</id>
+		<content type="html">&lt;h2 id=&quot;the-basic-gender-recipe&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#the-basic-gender-recipe&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; The Basic Gender Recipe&lt;/h2&gt;
 &lt;p&gt;As a beginner, you can make the following simplifying assumptions on gender, which we will refer to as the basic gender recipe:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;If a noun ends with Taa Marbuta (ـة), then it is most likely feminine, otherwise it is most likely masculine.&lt;/li&gt;
@@ -159,7 +159,7 @@
 &lt;ul&gt;
 &lt;li&gt;If an adjective is masculine, then adding Taa Marbuta (ة) will make it feminine.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;reversed-adjectives&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#reversed-adjectives&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Reversed adjectives&lt;/h3&gt;
+&lt;h3 id=&quot;reversed-adjectives&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#reversed-adjectives&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Reversed adjectives&lt;/h3&gt;
 &lt;p&gt;Finally, an important note is that noun/adjectives order is reversed: so to say &amp;quot;Good pen&amp;quot; in Arabic, first you say the noun then the adjectives.&lt;/p&gt;
 &lt;img src=&quot;https://i.imgur.com/RUNj6ki.png&quot; /&gt;
 &lt;p&gt;Exercises: We learned basic words from previous lessons, let&#39;s review some and make sentences:&lt;/p&gt;
@@ -198,7 +198,7 @@
 &lt;li&gt;Beautiful girl&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Girl in Arabic is &amp;quot;بنتٌ&amp;quot; which is feminine, so &amp;quot;جميل&amp;quot; is converted to feminine by adding (ة): بِنتٌ جَميلَةٌ&lt;/p&gt;
-&lt;h2 id=&quot;this&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#this&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; This&lt;/h2&gt;
+&lt;h2 id=&quot;this&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#this&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; This&lt;/h2&gt;
 &lt;ol&gt;
 &lt;li&gt;هَذَا: haaḏa&lt;/li&gt;
 &lt;/ol&gt;
@@ -221,8 +221,8 @@
 &lt;p&gt;Big sea --&amp;gt; sea big --&amp;gt; بَحرٌ كَبيرٌ&lt;/p&gt;
 &lt;p&gt;This is a big sea --&amp;gt; هذا بَحْرٌ كَبيرٌ&lt;/p&gt;
 &lt;p&gt;To say this is a big sea, just add &amp;quot;this [m]&amp;quot;.&lt;/p&gt;
-&lt;h2 id=&quot;pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Pronouns&lt;/h2&gt;
-&lt;h3 id=&quot;1)-ana-(i-am)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#1)-ana-(i-am)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 1) Ana (I am)&lt;/h3&gt;
+&lt;h2 id=&quot;pronouns&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#pronouns&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Pronouns&lt;/h2&gt;
+&lt;h3 id=&quot;1)-ana-(i-am)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#1)-ana-(i-am)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 1) Ana (I am)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;أنا: I&lt;/li&gt;
 &lt;/ul&gt;
@@ -239,23 +239,23 @@
 &lt;ul&gt;
 &lt;li&gt;I am beautiful.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;2)-anta-(you-m)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#2)-anta-(you-m)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 2) Anta (You [m])&lt;/h3&gt;
+&lt;h3 id=&quot;2)-anta-(you-m)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#2)-anta-(you-m)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 2) Anta (You [m])&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;أَنْتَ: You [m]&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;3)-ante-(you-f)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#3)-ante-(you-f)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 3) Ante (You [f])&lt;/h3&gt;
+&lt;h3 id=&quot;3)-ante-(you-f)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#3)-ante-(you-f)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 3) Ante (You [f])&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;أَنْتِ: You [f]&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;4)-huwa-(he)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#4)-huwa-(he)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 4) Huwa (he)&lt;/h3&gt;
+&lt;h3 id=&quot;4)-huwa-(he)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#4)-huwa-(he)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 4) Huwa (he)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;هُوَ: he&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h3 id=&quot;5-heya-(she)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#5-heya-(she)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 5 Heya (she)&lt;/h3&gt;
+&lt;h3 id=&quot;5-heya-(she)&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#5-heya-(she)&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; 5 Heya (she)&lt;/h3&gt;
 &lt;ul&gt;
 &lt;li&gt;هِيَ: she&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&quot;what-about-am-is-are&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns/#what-about-am-is-are&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; What about Am, Is, Are?&lt;/h2&gt;
+&lt;h2 id=&quot;what-about-am-is-are&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/pronouns1/#what-about-am-is-are&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; What about Am, Is, Are?&lt;/h2&gt;
 &lt;p&gt;Arabic grammar is concise. Want to say &amp;quot;Sky is blue&amp;quot;? just put &amp;quot;blue&amp;quot; after &amp;quot;sky&amp;quot; in a sentence: &amp;quot;sky blue&amp;quot;. Applying this concept, to say:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;I am good --&amp;gt; أنا جيد&lt;/li&gt;
@@ -269,7 +269,7 @@
 	<entry>
 		<title>5) Greetings</title>
 		<link href="https://al-mubeen.com/greetings/"/>
-		<updated>2022-03-06T02:13:32Z</updated>
+		<updated>2022-03-06T02:33:07Z</updated>
 		<id>https://al-mubeen.com/greetings/</id>
 		<content type="html">&lt;h2 id=&quot;dialogue1&quot; tabindex=&quot;-1&quot;&gt;&lt;a class=&quot;direct-link&quot; href=&quot;https://al-mubeen.com/greetings/#dialogue1&quot; aria-hidden=&quot;true&quot;&gt;#&lt;/a&gt; Dialogue1&lt;/h2&gt;
 &lt;div dir=&quot;rtl&quot;&gt;
@@ -306,7 +306,7 @@
 	<entry>
 		<title>3) Vowels</title>
 		<link href="https://al-mubeen.com/vowels/"/>
-		<updated>2022-03-06T02:13:32Z</updated>
+		<updated>2022-03-06T02:33:07Z</updated>
 		<id>https://al-mubeen.com/vowels/</id>
 		<content type="html">&lt;p&gt;Arabic diacritics, often called Tashkeel (تشكيل), are used to give a word its exact pronunciation.&lt;/p&gt;
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7LKbEMA1DEQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;

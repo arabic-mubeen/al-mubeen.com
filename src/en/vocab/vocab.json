@@ -1,0 +1,5 @@
+{
+  "layout": "post",
+  "tags": ["vocabulary"],
+  "permalink": "/vocab/{{page.fileSlug | trimSlug}}/index.html"
+}

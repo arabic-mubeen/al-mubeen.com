@@ -33,7 +33,7 @@
         <a{% if entry.url == page.url %} class="nav-item-active"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
       {%- endfor %}
       </nav>
-	  <div id="license">{{ metadata.license }}</div>
+      <div id="license"><a href="{{ metadata.license_link }}" target="_blank">{{ metadata.license }} </a></div>
 	</footer>
   </body>
 </html>

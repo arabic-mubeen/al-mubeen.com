@@ -100,8 +100,10 @@ nav {
 	margin: 10px auto;
 }
 
-header > h1 {
-	margin: 0;
+#headTitle {
+    font-size: 2em;
+    font-weight: bold;
+    text-align: center;
 	padding: 10px 10px 0;
 }
 
@@ -138,7 +140,7 @@ a:hover {
   color: var(--col-ln-hover);
 }
 
-h1, h2, h3, h4, h5 {
+#headTitle, h1, h2, h3, h4, h5 {
   font-family: var(--sans-serif);
 }
 

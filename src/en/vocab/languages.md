@@ -2,7 +2,6 @@
 title: Languages
 seoTitle: Names of foreign languages in Arabic
 description: "The ultimate list of foreign languages in Arabic"
-thumbnail: https://i.imgur.com/GuRnqJs.png
 author: Mustafa Alelg
 ---
 

@@ -2,6 +2,7 @@
 title: Countries
 seoTitle: Countries in Arabic - THE ULTIMATE LIST
 descriptions: "Hello, World!"
+thumbnail: https://i.imgur.com/GuRnqJs.png
 author: Mustafa Alelg
 ---
 

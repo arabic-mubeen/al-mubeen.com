@@ -1,14 +1,27 @@
 ---
-layout: base.njk
 templateClass: tmpl-post
 ---
-<h1>{{ title }}</h1>
+{% extends "base.njk" %}
 
+{% block meinHead %}
+    <meta property="og:title" content="{{ title }}"/>
+    <meta property="og:url" content="{{ tagUrl or url }}" />
+    <meta property="og:description" content="{{ description or metadata.description }}" />
+    <meta property="og:type" content="article" />
+    <meta name="author" content="{{ author or "Mubeen Team" }}">
+    {% if thumbnail %}<meta property="og:image" content="{{ thumbnail }}" />{% endif %}
+{% endblock %}
+
+
+{% block meinContent %}
+
+<h1>{{ seoTitle or title }}</h1>
 <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time>
 {%- for tag in tags | filterTagList -%}
 {%- set tagUrl %}/{{ tag | slug }}/{% endset -%}
 &nbsp;| <a href="{{ tagUrl | url }}" class="post-tag">{{ tag }}</a>
 {%- endfor %}
+{% if thumbnail %}<img src="{{ thumbnail }}" loading="lazy"/>{% endif %}
 
 {{ content | safe }}
 
@@ -36,3 +49,4 @@ templateClass: tmpl-post
   {% endif %}
   {% endif %}
 <hr>
+{% endblock %}

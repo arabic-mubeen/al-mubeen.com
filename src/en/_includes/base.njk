@@ -10,12 +10,13 @@
     <link rel="stylesheet" href="{{ '/style.css' | url }}">
     <link rel="alternate" href="{{ metadata.feed.path | url }}" type="application/atom+xml" title="{{ metadata.title }}">
     <link rel="alternate" href="{{ metadata.jsonfeed.path | url }}" type="application/json" title="{{ metadata.title }}">
+    {% block meinHead %}{% endblock %}
   </head>
   <body>
     <header>
-      <h1>
+      <div id="headTitle">
       <img src="https://github.com/arabic-mubeen.png" width="32px">
-		<a href={{"/" | url}}>{{ metadata.title }}</a></h1>
+		<a href={{"/" | url}}>{{ metadata.title }}</a></div>
       <nav>
       {%- for entry in collections.headerNav | eleventyNavigation %}
         <a{% if entry.url == page.url %} class="nav-item-active"{% endif %} href="{{ entry.url | url }}">{{ entry.title }}</a>
@@ -24,7 +25,10 @@
     </header>
 
 	<main{% if templateClass %} class="{{ templateClass }}"{% endif %}{% if language %} style="direction: ltr;"{% endif %}>
-      {{ content | safe }}
+        {% block meinContent %}
+            {{ content | safe }}
+        {% endblock %}
+        
     </main>
 
     <footer>

@@ -1,5 +1,5 @@
 {
   "layout": "post",
-  "tags": ["vocabulary"],
+  "tags": ["vocab"],
   "permalink": "/vocab/{{page.fileSlug | trimSlug}}/index.html"
 }

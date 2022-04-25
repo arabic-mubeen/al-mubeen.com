@@ -11,6 +11,7 @@
     "debug": "DEBUG=* eleventy --config .eleventy-en.js",
     "deploy": "gh-pages -d dist",
     "build:deploy": "npm run build && npm run deploy"
+    "build:deploy:push": "npm run build && npm run deploy && git push"
   },
   "repository": {
     "type": "git",
